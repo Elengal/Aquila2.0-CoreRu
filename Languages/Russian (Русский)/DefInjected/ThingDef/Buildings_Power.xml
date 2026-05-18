@@ -2,13 +2,6 @@
 <LanguageData>
   <ZHpower_AtBuild.label>атомная солнечная панель</ZHpower_AtBuild.label>
   <ZHpower_AtBuild.description>Особая структура чипа и механизма позволяет лучше поглощать солнечную энергию.</ZHpower_AtBuild.description>
-  <ZHpower_AtBuild_Blueprint.label>атомная солнечная панель (чертёж)</ZHpower_AtBuild_Blueprint.label>
-  <ZHpower_AtBuild_Frame.label>атомная солнечная панель (строение)</ZHpower_AtBuild_Frame.label>
-  <ZHpower_AtBuild_Frame.description>Особая структура чипа и механизма позволяет лучше поглощать солнечную энергию.</ZHpower_AtBuild_Frame.description>
   <EBattery_AtBuild.label>конденсатор</EBattery_AtBuild.label>
   <EBattery_AtBuild.description>Накопитель энергии, способный хранить большое количество электричества.</EBattery_AtBuild.description>
-  <EBattery_AtBuild_Blueprint.label>конденсатор (чертёж)</EBattery_AtBuild_Blueprint.label>
-  <EBattery_AtBuild_Blueprint_Install.label>конденсатор (чертёж)</EBattery_AtBuild_Blueprint_Install.label>
-  <EBattery_AtBuild_Frame.label>конденсатор (строение)</EBattery_AtBuild_Frame.label>
-  <EBattery_AtBuild_Frame.description>Накопитель энергии, способный хранить большое количество электричества.</EBattery_AtBuild_Frame.description>
 </LanguageData>

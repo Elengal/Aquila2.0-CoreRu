@@ -11,9 +11,6 @@
   <AddEtherCore.description>Операция по установке</AddEtherCore.description>
   <AddEtherCore.jobString>устанавливает титан-II атомный реактор</AddEtherCore.jobString>
   
-  <EtherCore_ZZ.label>изготовить титан-II атомный реактор</EtherCore_ZZ.label>
-  <EtherCore_ZZ.description>Изготовить титан-II атомный реактор</EtherCore_ZZ.description>
-  <EtherCore_ZZ.jobString>изготавливает титан-II атомный реактор</EtherCore_ZZ.jobString>
   
   <AddSlArm.label>установить атомную бионическую руку</AddSlArm.label>
   <AddSlArm.description>Операция по установке</AddSlArm.description>

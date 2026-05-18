@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <MeleeDamageFactor.label>Множитель урона в ближнем бою</MeleeDamageFactor.label>
+  <MeleeDamageFactor.description>Множитель урона, наносимого этим человеком в ближнем бою.</MeleeDamageFactor.description>
   <MeleeDoorDamageFactor.label>Множитель урона по дверям в ближнем бою</MeleeDoorDamageFactor.label>
   <MeleeDoorDamageFactor.description>Специальный множитель урона, наносимого дверям в ближнем бою.</MeleeDoorDamageFactor.description>
   <ShootingAccuracyChildFactor.label>Множитель точности стрельбы</ShootingAccuracyChildFactor.label>
+  <StaggerDurationFactor.label>Множитель времени замедления</StaggerDurationFactor.label>
+  <StaggerDurationFactor.description>Множитель длительности замедления, возникающего при получении урона.</StaggerDurationFactor.description>
+  <RangedCooldownFactor.label>Множитель перезарядки дальнобойного оружия</RangedCooldownFactor.label>
+  <RangedCooldownFactor.description>Множитель времени перезарядки между очередями при использовании дальнобойного оружия.</RangedCooldownFactor.description>
 </LanguageData>

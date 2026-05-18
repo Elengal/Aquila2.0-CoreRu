@@ -2,26 +2,10 @@
 <LanguageData>
   <HeChengWork.label>плавильня лёгких веществ</HeChengWork.label>
   <HeChengWork.description>Плавильное оборудование для материальной базы, необходимой во Вторую атомную эпоху.</HeChengWork.description>
-  <HeChengWork_Blueprint.label>плавильня лёгких веществ (чертёж)</HeChengWork_Blueprint.label>
-  <HeChengWork_Blueprint_Install.label>плавильня лёгких веществ (чертёж)</HeChengWork_Blueprint_Install.label>
-  <HeChengWork_Frame.label>плавильня лёгких веществ (строение)</HeChengWork_Frame.label>
-  <HeChengWork_Frame.description>Плавильное оборудование для материальной базы, необходимой во Вторую атомную эпоху.</HeChengWork_Frame.description>
   <QiMiaoWork.label>автоматическое производственное сооружение</QiMiaoWork.label>
   <QiMiaoWork.description>Производственная станция для различных технологий космической эпохи с автоматизированными механизмами.</QiMiaoWork.description>
-  <QiMiaoWork_Blueprint.label>автоматическое производственное сооружение (чертёж)</QiMiaoWork_Blueprint.label>
-  <QiMiaoWork_Blueprint_Install.label>автоматическое производственное сооружение (чертёж)</QiMiaoWork_Blueprint_Install.label>
-  <QiMiaoWork_Frame.label>автоматическое производственное сооружение (строение)</QiMiaoWork_Frame.label>
-  <QiMiaoWork_Frame.description>Производственная станция для различных технологий космической эпохи с автоматизированными механизмами.</QiMiaoWork_Frame.description>
   <ShengWuWork.label>станция синтеза атомных биоимплантов</ShengWuWork.label>
   <ShengWuWork.description>Вторая атомная революция принесла новые источники чистой энергии, и вместе с ней появились новые технологии биоимплантов.</ShengWuWork.description>
-  <ShengWuWork_Blueprint.label>станция синтеза атомных биоимплантов (чертёж)</ShengWuWork_Blueprint.label>
-  <ShengWuWork_Blueprint_Install.label>станция синтеза атомных биоимплантов (чертёж)</ShengWuWork_Blueprint_Install.label>
-  <ShengWuWork_Frame.label>станция синтеза атомных биоимплантов (строение)</ShengWuWork_Frame.label>
-  <ShengWuWork_Frame.description>Вторая атомная революция принесла новые источники чистой энергии, и вместе с ней появились новые технологии биоимплантов.</ShengWuWork_Frame.description>
   <LSFRJWork.label>старинная швейная машина</LSFRJWork.label>
   <LSFRJWork.description>Старинная швейная машина, воссозданная с помощью современных технологий. Конечно, воссозданы и блестящий маховик, отполированный нежными руками за многие годы, и заржавевшая скрипучая педаль. Конструкция очень древняя, но работает превосходно.</LSFRJWork.description>
-  <LSFRJWork_Blueprint.label>старинная швейная машина (чертёж)</LSFRJWork_Blueprint.label>
-  <LSFRJWork_Blueprint_Install.label>старинная швейная машина (чертёж)</LSFRJWork_Blueprint_Install.label>
-  <LSFRJWork_Frame.label>старинная швейная машина (строение)</LSFRJWork_Frame.label>
-  <LSFRJWork_Frame.description>Старинная швейная машина, воссозданная с помощью современных технологий. Конечно, воссозданы и блестящий маховик, отполированный нежными руками за многие годы, и заржавевшая скрипучая педаль. Конструкция очень древняя, но работает превосходно.</LSFRJWork_Frame.description>
 </LanguageData>

@@ -5,8 +5,6 @@
   <Mech_N_JianChaShiSurveillance.tools.0.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.0.label>
   <Mech_N_JianChaShiSurveillance.tools.1.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.1.label>
   <Mech_N_JianChaShiSurveillance.tools.2.label>хлёсткий удар ногой</Mech_N_JianChaShiSurveillance.tools.2.label>
-  <Mech_N_JianChaShiSurveillance_Corpse.label>труп Инспектора</Mech_N_JianChaShiSurveillance_Corpse.label>
-  <Mech_N_JianChaShiSurveillance_Corpse.description>Труп Инспектора</Mech_N_JianChaShiSurveillance_Corpse.description>
   <TY_MJiZQ_A_WeaponTurret.label>Оружейная система: 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.label>
   <TY_MJiZQ_A_WeaponTurret.description>19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.description>
   <TY_Bxzd_AtB.label>кластерный бронебойный снаряд</TY_Bxzd_AtB.label>
@@ -17,14 +15,10 @@
   <TY_Armed_mining_machine.tools.0.label>левый кулак</TY_Armed_mining_machine.tools.0.label>
   <TY_Armed_mining_machine.tools.1.label>правый кулак</TY_Armed_mining_machine.tools.1.label>
   <TY_Armed_mining_machine.tools.2.label>голова</TY_Armed_mining_machine.tools.2.label>
-  <TY_Armed_mining_machine_Corpse.label>труп «Крот-1»</TY_Armed_mining_machine_Corpse.label>
-  <TY_Armed_mining_machine_Corpse.description>труп «Крот-1»</TY_Armed_mining_machine_Corpse.description>
   <TY_qWifier_Bullet.label>лазер</TY_qWifier_Bullet.label>
-  <TY_MJQiang_A_Weapon.label>Оружейная система: лазерное бур механоидов</TY_MJQiang_A_Weapon.label>
+  <TY_MJQiang_A_Weapon.label>Оружейная система: лазерный бур механоидов</TY_MJQiang_A_Weapon.label>
   <TY_MJQiang_A_Weapon.description>Лазерный бур для горных работ. Можно также использовать как оружие.</TY_MJQiang_A_Weapon.description>
   <TY_Mech_CentipedeGunner.label>транспортный механоид-сороконожка</TY_Mech_CentipedeGunner.label>
   <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный механоид, разработанный механоидами для добычи различных металлов и стали. Обычно оснащён скорострельным пулемётом для самозащиты.</TY_Mech_CentipedeGunner.description>
   <TY_Mech_CentipedeGunner.tools.0.label>голова</TY_Mech_CentipedeGunner.tools.0.label>
-  <TY_Mech_CentipedeGunner_Corpse.label>труп транспортного механоида-сороконожки</TY_Mech_CentipedeGunner_Corpse.label>
-  <TY_Mech_CentipedeGunner_Corpse.description>труп транспортного механоида-сороконожки</TY_Mech_CentipedeGunner_Corpse.description>
 </LanguageData>
