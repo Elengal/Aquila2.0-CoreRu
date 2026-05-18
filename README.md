@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="About/Preview.png" alt="Aquila 2.0 Core — Превью" width="640">
+
 # 🦅 Aquila 2.0 Core — Русификатор
 
-**Полный русский перевод мода [Aquila 2.0 Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) для RimWorld**
+**Полный русский перевод мода [Aquila 2.0 Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) / [GitHub](https://github.com/Elengal/Aquila2.0-CoreRu) для RimWorld**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-CoreRu)
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue?style=flat-square&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3607397722) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-CoreRu)
 
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
