@@ -84,15 +84,17 @@ Aquila2.0-CoreRu/
 │   ├── About.xml          # Метаданные мода
 │   ├── ModIcon.png        # Иконка мода
 │   └── Preview.png        # Превью
-└── Languages/
-    └── Russian (Русский)/
-        └── DefInjected/   # Переводы Def-объектов
-            ├── BodyDef/
-            ├── BodyPartDef/
-            ├── HediffDef/
-            ├── RecipeDef/
-            ├── ThingDef/
-            └── ...         # И другие категории
+├── 1.6/
+│   └── Core/              # Базовый контент Core
+│       └── Languages/Russian (Русский)/
+│           └── DefInjected/   # Переводы Def-объектов
+│               ├── BodyDef/
+│               ├── BodyPartDef/
+│               ├── HediffDef/
+│               ├── RecipeDef/
+│               ├── ThingDef/
+│               └── ...         # И другие категории
+└── LoadFolders.xml        # Условия загрузки по модам
 ```
 
 ## 📜 Лицензия
