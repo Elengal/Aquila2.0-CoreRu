@@ -2,10 +2,10 @@
 <LanguageData>
   <TY_A_Induced_signal_transmitter.label>индуцирующий сигнальный передатчик Инспектора</TY_A_Induced_signal_transmitter.label>
   <TY_A_Induced_signal_transmitter.description>Инспектор — особый механоид, созданный в рамках идеального инженерного проекта Республики Завета Славы. Ранее использовался для надзора за изучением технологий Аквилы местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип. Сигнальный импульс сожжёт антенну, поэтому устройство одноразовое.</TY_A_Induced_signal_transmitter.description>
-  <TY_A_Induced_signal_transmitter.comps.0.useLabel>Вызвать нападение механоидов Инспектора</TY_A_Induced_signal_transmitter.comps.0.useLabel>
+  <TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>Вызвать нападение механоидов Инспектора</TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>
   <TY_BandNode.label>высокопроизводительный широкополосный узел</TY_BandNode.label>
   <TY_BandNode.description>Широкополосный узел с отличными характеристиками.</TY_BandNode.description>
   <TY_BurnoutMechlinkBooster.label>индуктор горнодобывающих механоидов</TY_BurnoutMechlinkBooster.label>
   <TY_BurnoutMechlinkBooster.description>Особое устройство механоидной связи. При активации излучает импульс определённых частот, привлекающий горнодобывающий отряд механоидов. Победив их, можно собрать значительное количество ресурсов с обломков. Сигнальный импульс сожжёт антенну, поэтому устройство одноразовое.</TY_BurnoutMechlinkBooster.description>
-  <TY_BurnoutMechlinkBooster.comps.0.useLabel>Вызвать нападение горнодобывающих механоидов</TY_BurnoutMechlinkBooster.comps.0.useLabel>
+  <TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>Вызвать нападение горнодобывающих механоидов</TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>
 </LanguageData>

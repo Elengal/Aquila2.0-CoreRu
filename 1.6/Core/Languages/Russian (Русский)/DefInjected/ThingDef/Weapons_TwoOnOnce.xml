@@ -6,5 +6,8 @@
   <TY_N_BaiLingS_Weapon.tools.0.label>приклад</TY_N_BaiLingS_Weapon.tools.0.label>
   <TY_N_BaiLingS_Weapon.tools.1.label>рукоять</TY_N_BaiLingS_Weapon.tools.1.label>
 
+  <!-- Verb labels from aggregate -->
+  <TY_N_BaiLingS_Weapon.verbs.Verb_Shoot.label>короткоствольный дробовик-пистолет</TY_N_BaiLingS_Weapon.verbs.Verb_Shoot.label>
+
 
 </LanguageData>

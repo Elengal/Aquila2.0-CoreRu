@@ -52,5 +52,15 @@
   <TY_N_FireGun_Weapon.description>Это оружие было создано давно на Лавовой Звезде и списано из-за недостаточной поражающей способности. Однако высокая скорострельность и масштабный поджигающий эффект делают его идеальным для диверсий или «переговоров» с племенами.</TY_N_FireGun_Weapon.description>
   <TY_N_FireGun_Weapon.tools.0.label>приклад</TY_N_FireGun_Weapon.tools.0.label>
 
+  <!-- Verb labels from aggregate -->
+  <TY_N_BaiLingX_Weapon.verbs.Verb_MultipleShoot.label>дробовик «Винчестер-44 мод.»</TY_N_BaiLingX_Weapon.verbs.Verb_MultipleShoot.label>
+  <TY_N_BaiLingZ_Weapon.verbs.Verb_Shoot.label>винтовка «Ака»</TY_N_BaiLingZ_Weapon.verbs.Verb_Shoot.label>
+  <TY_N_BaiLingJ_Weapon.verbs.Verb_Shoot.label>«Ремингтон m1700»</TY_N_BaiLingJ_Weapon.verbs.Verb_Shoot.label>
+  <TY_N_CiHeZ_Weapon.verbs.Verb_Shoot.label>магнитозарядная автоматическая винтовка</TY_N_CiHeZ_Weapon.verbs.Verb_Shoot.label>
+  <TY_N_CiHeJ_Weapon.verbs.Verb_Shoot.label>магнитозарядная снайперская винтовка</TY_N_CiHeJ_Weapon.verbs.Verb_Shoot.label>
+  <TY_N_CiHeX_Weapon.verbs.Verb_MultipleShoot.label>магнитозарядный дробовик</TY_N_CiHeX_Weapon.verbs.Verb_MultipleShoot.label>
+  <TY_N_FireGun_Weapon.verbs.Verb_Shoot.label>«Лава» пулемёт</TY_N_FireGun_Weapon.verbs.Verb_Shoot.label>
+  <TY_N_RocketS_Weapon.verbs.Verb_ShootOneUse.label>четырёхзарядная ракетница</TY_N_RocketS_Weapon.verbs.Verb_ShootOneUse.label>
+
 
 </LanguageData>

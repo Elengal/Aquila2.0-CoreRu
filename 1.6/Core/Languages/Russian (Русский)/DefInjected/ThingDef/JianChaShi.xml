@@ -12,13 +12,19 @@
   <TY_High_performance_broadband_chip.description>Ключевой компонент для создания высокопроизводительных широкополосных узлов.</TY_High_performance_broadband_chip.description>
   <TY_Armed_mining_machine.label>«Крот-1»: горнодобывающий механоид</TY_Armed_mining_machine.label>
   <TY_Armed_mining_machine.description>«Крот-1» — механоид, разработанный Федерацией Долины в 5972 году для земляных работ, горнодобычи и подземного строительства. Широкая голова оснащена лазерным излучателем для подземного бурения.\nОднако из-за политических потрясений 72 года «Крот» не получил массового распространения. Создание Суверенной Конфедерации привело к потере множества передовых технологий, и «Крот» вместе с технологиями механоидов попал к механоидам Окраинного мира.</TY_Armed_mining_machine.description>
-  <TY_Armed_mining_machine.tools.0.label>левый кулак</TY_Armed_mining_machine.tools.0.label>
-  <TY_Armed_mining_machine.tools.1.label>правый кулак</TY_Armed_mining_machine.tools.1.label>
-  <TY_Armed_mining_machine.tools.2.label>голова</TY_Armed_mining_machine.tools.2.label>
+  <TY_Armed_mining_machine.tools.left_fist.label>левый кулак</TY_Armed_mining_machine.tools.left_fist.label>
+  <TY_Armed_mining_machine.tools.left_fist.labelNoLocation>кулак</TY_Armed_mining_machine.tools.left_fist.labelNoLocation>
+  <TY_Armed_mining_machine.tools.right_fist.label>правый кулак</TY_Armed_mining_machine.tools.right_fist.label>
+  <TY_Armed_mining_machine.tools.right_fist.labelNoLocation>кулак</TY_Armed_mining_machine.tools.right_fist.labelNoLocation>
+  <TY_Armed_mining_machine.tools.head.label>голова</TY_Armed_mining_machine.tools.head.label>
   <TY_qWifier_Bullet.label>лазер</TY_qWifier_Bullet.label>
   <TY_MJQiang_A_Weapon.label>Оружейная система: лазерный бур механоидов</TY_MJQiang_A_Weapon.label>
   <TY_MJQiang_A_Weapon.description>Лазерный бур для горных работ. Можно также использовать как оружие.</TY_MJQiang_A_Weapon.description>
   <TY_Mech_CentipedeGunner.label>транспортный механоид-сороконожка</TY_Mech_CentipedeGunner.label>
   <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный механоид, разработанный механоидами для добычи различных металлов и стали. Обычно оснащён скорострельным пулемётом для самозащиты.</TY_Mech_CentipedeGunner.description>
-  <TY_Mech_CentipedeGunner.tools.0.label>голова</TY_Mech_CentipedeGunner.tools.0.label>
+  <TY_Mech_CentipedeGunner.tools.head.label>голова</TY_Mech_CentipedeGunner.tools.head.label>
+
+  <!-- Verb labels from aggregate -->
+  <TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>Оружейная система: 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>
+  <TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>Оружейная система: лазерный бур механоидов</TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>
 </LanguageData>

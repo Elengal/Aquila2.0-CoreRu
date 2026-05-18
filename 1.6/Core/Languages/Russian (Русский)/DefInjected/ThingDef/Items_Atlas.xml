@@ -18,5 +18,8 @@
   <EHeart.label>бьющееся сердце</EHeart.label>
   <EHeart.description>Свежие сердца, добытые из нечеловеческих монстров, например, из Сияющего Храма.</EHeart.description>
 
+  <!-- Ammo from aggregate -->
+  <TY_N_BaiLingJ_Bullet_JQ.label>7.62x54R мм патрон для пулемёта</TY_N_BaiLingJ_Bullet_JQ.label>
+
 
 </LanguageData>

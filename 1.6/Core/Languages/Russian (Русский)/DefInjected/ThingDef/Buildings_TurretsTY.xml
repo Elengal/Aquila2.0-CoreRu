@@ -17,4 +17,16 @@
   <TY_A_DropPodIncoming_D.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D.description>
   <TY_A_DropPodIncoming_D_A.label>большой низкоугольный щит Долины</TY_A_DropPodIncoming_D_A.label>
   <TY_A_DropPodIncoming_D_A.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A.description>
+  <!-- Verb labels from aggregate -->
+  <TY_BScfq_TurretWeapon.verbs.Verb_Shoot.label>турель с ПП</TY_BScfq_TurretWeapon.verbs.Verb_Shoot.label>
+  <TY_BSjzbq_TurretWeapon.verbs.Verb_Shoot.label>автоматическая противотанковая пушка</TY_BSjzbq_TurretWeapon.verbs.Verb_Shoot.label>
+  <TY_BSlf_TurretWeapon.verbs.Verb_Shoot.label>автоматическая пушка</TY_BSlf_TurretWeapon.verbs.Verb_Shoot.label>
+
+  <!-- CompRefuelable labels from aggregate -->
+  <TY_N_BSjzpt_Bulding.comps.CompRefuelable.fuelGizmoLabel>прочность ствола</TY_N_BSjzpt_Bulding.comps.CompRefuelable.fuelGizmoLabel>
+  <TY_N_BSjzpt_Bulding.comps.CompRefuelable.fuelLabel>выстрелов до замены ствола</TY_N_BSjzpt_Bulding.comps.CompRefuelable.fuelLabel>
+  <TY_N_BSjzpt_Bulding.comps.CompRefuelable.outOfFuelMessage>прочность ствола</TY_N_BSjzpt_Bulding.comps.CompRefuelable.outOfFuelMessage>
+  <TY_N_BSlf_Bulding.comps.CompRefuelable.fuelGizmoLabel>прочность ствола</TY_N_BSlf_Bulding.comps.CompRefuelable.fuelGizmoLabel>
+  <TY_N_BSlf_Bulding.comps.CompRefuelable.fuelLabel>выстрелов до замены ствола</TY_N_BSlf_Bulding.comps.CompRefuelable.fuelLabel>
+  <TY_N_BSlf_Bulding.comps.CompRefuelable.outOfFuelMessage>прочность ствола</TY_N_BSlf_Bulding.comps.CompRefuelable.outOfFuelMessage>
 </LanguageData>

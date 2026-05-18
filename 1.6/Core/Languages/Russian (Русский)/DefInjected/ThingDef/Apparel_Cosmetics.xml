@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Cosmetic outfits -->
+
   <AP_N_MiscA.label>Аквила: костюм монахини</AP_N_MiscA.label>
   <AP_N_MiscA.description>Немного провокационный костюм монахини. — Манджушака (художник)</AP_N_MiscA.description>
 
@@ -9,9 +11,6 @@
 
   <AP_N_MiscC.label>Аквила: ночной дождь весенних волн</AP_N_MiscC.label>
   <AP_N_MiscC.description>Одежда Райден Мэй из игры «Honkai Impact». — Манджушака (художник)</AP_N_MiscC.description>
-
-
-  <!-- 更多 одежды -->
 
   <AP_N_MiscE.label>Аквила: ципао клана Ваньси</AP_N_MiscE.label>
   <AP_N_MiscE.description>Один из нарядов культуры Ваньси.</AP_N_MiscE.description>
@@ -46,8 +45,7 @@
   <AP_N_XinZuang.label>костюм дворецкого</AP_N_XinZuang.label>
   <AP_N_XinZuang.description>Костюм дворецкого.</AP_N_XinZuang.description>
 
-
-  <!-- ————————————————Голова—————————————————— -->
+  <!-- Headgear -->
 
   <AH_N_MiscA.label>Аквила: корона</AH_N_MiscA.label>
   <AH_N_MiscA.description>Корона.</AH_N_MiscA.description>
@@ -57,6 +55,11 @@
 
   <AS_N_JSyana.label>шлем кошачьего комбинезона</AS_N_JSyana.label>
   <AS_N_JSyana.description>Подписывайтесь на автора «Simple One Star» на Bilibili для кошачьих видео.</AS_N_JSyana.description>
+
+  <!-- Shield accessories -->
+
+  <AS_N_BoJing.label>герметичный щитовой воротник</AS_N_BoJing.label>
+  <AS_N_BoJing.description>Воротник с щитом, который можно использовать для стрельбы наружу. Низкий уровень щита делает его основную функцию — защиту от суровых условий глубокого космоса и обеспечение кислородом. После пробития щита можно самостоятельно выбрать мгновенное восстановление щита, но только один раз. (Каждое использование уменьшает прочность предмета на 500 {Points})</AS_N_BoJing.description>
 
 
 </LanguageData>
