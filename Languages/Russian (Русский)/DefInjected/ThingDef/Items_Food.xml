@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Sugar_AtFood.label>конфеты</Sugar_AtFood.label>
+  <Sugar_AtFood.description>Вкусные конфеты</Sugar_AtFood.description>
+  <AXBD_AtFood.label>изысканный бэнто</AXBD_AtFood.label>
+  <AXBD_AtFood.description>Изысканный бэнто. Трудно представить, что такую еду можно найти на Окраинном мире. (Но готовить хлопотно)</AXBD_AtFood.description>
+  <Yysj_AtFood.label>жареная курица</Yysj_AtFood.label>
+  <Yysj_AtFood.description>Жареная курица — очень популярное китайское блюдо. Курицу маринуют в специальном соусе и запекают при высокой температуре до золотистой корочки.</Yysj_AtFood.description>
+  <Mgjb_AtFood.label>буррито</Mgjb_AtFood.label>
+  <Mgjb_AtFood.description>Буррито, или кукурузная лепёшка — традиционное мексиканское блюдо. Красочное и яркое украшение с мексиканским колоритом.</Mgjb_AtFood.description>
+  <Lbmz_AtFood.label>бургер</Lbmz_AtFood.label>
+  <Lbmz_AtFood.description>Еда из хлеба, овощей и мяса. Говорят, это фастфуд. Но если разложить ингредиенты, это уже не фастфуд. Удивительно.</Lbmz_AtFood.description>
+  <Jbdl_AtFood.label>энергетик</Jbdl_AtFood.label>
+  <Jbdl_AtFood.description>Одна бутылка — бодрость, две — неутомимость, три — бессмертие...</Jbdl_AtFood.description>
+  <JZGT_AtFood.label>изысканные консервы</JZGT_AtFood.label>
+  <JZGT_AtFood.description>Изысканные консервы с добавками для повышения иммунитета и витаминов.</JZGT_AtFood.description>
+  <Qqlb_AtFood.label>энергетический батончик</Qqlb_AtFood.label>
+  <Qqlb_AtFood.description>Энергетический батончик даёт много энергии.</Qqlb_AtFood.description>
+  <JBQS_AtFood.label>содовая</JBQS_AtFood.label>
+  <JBQS_AtFood.description>Точно не Coca-Cola</JBQS_AtFood.description>
+  <SP_AtFood.label>чипсы</SP_AtFood.label>
+  <SP_AtFood.description>В чипсы добавлен стимулятор?</SP_AtFood.description>
+  <Jdxl_AtFood.label>мороженое</Jdxl_AtFood.label>
+  <Jdxl_AtFood.description>Вкусное мороженое</Jdxl_AtFood.description>
+  <Kkms_AtFood.label>какао-мусс</Kkms_AtFood.label>
+  <Kkms_AtFood.description>(Честно говоря, я не знаю, как это называется)</Kkms_AtFood.description>
+</LanguageData>

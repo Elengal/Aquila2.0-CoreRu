@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <titanium_alloy.label>титановый сплав</titanium_alloy.label>
+  <titanium_alloy.description>Титан обладает превосходными свойствами и широко применяется в аэрокосмической отрасли, судостроении, химической промышленности, транспорте, оружии, медицине, спорте и лёгкой промышленности.</titanium_alloy.description>
+  <titanium_alloy.stuffProps.stuffAdjective>титановый сплав</titanium_alloy.stuffProps.stuffAdjective>
+  <TIalloy.label>бронированный сплав</TIalloy.label>
+  <TIalloy.description>Прочная и долговечная броневая сталь, полученная сваркой и плавлением металлов с разными свойствами.</TIalloy.description>
+  <TIalloy.stuffProps.stuffAdjective>TI2 сплав</TIalloy.stuffProps.stuffAdjective>
+  <EtherM.label>кристаллическая лента</EtherM.label>
+  <EtherM.description>Выглядит как огромная магнитная лента из Среднего мира, но на самом деле это электронный компонент с электронами, сжатыми в гибкую ленту.
+Прочнее и долговечнее металлических компонентов, может сворачиваться и хранить больше данных.</EtherM.description>
+  <TY_A_Nano_solvent.label>наномеханизмы</TY_A_Nano_solvent.label>
+  <TY_A_Nano_solvent.description>Одна из ключевых систем технологий Орла. Наномеханизмы применяются в военном оружии, гражданском строительстве, высоких технологиях, медицине, развитии пси-способностей, строительных работах и механоидах.</TY_A_Nano_solvent.description>
+  <EHeart.label>бьющееся сердце</EHeart.label>
+  <EHeart.description>Свежее сердце, полученное от нечеловеческого монстра, например, из Сияющего Святилища.</EHeart.description>
+</LanguageData>

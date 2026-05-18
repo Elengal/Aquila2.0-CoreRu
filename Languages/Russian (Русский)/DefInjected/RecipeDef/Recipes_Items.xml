@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Make_EtherM.label>изготовить кристаллическую ленту</Make_EtherM.label>
+  <Make_EtherM.description>Изготовить кристаллическую ленту</Make_EtherM.description>
+  <Make_EtherM.jobString>изготавливает кристаллическую ленту</Make_EtherM.jobString>
+  <Make_titanium_alloy.label>синтезировать титановый сплав x100</Make_titanium_alloy.label>
+  <Make_titanium_alloy.description>Синтезировать титановый сплав менее эффективным способом</Make_titanium_alloy.description>
+  <Make_titanium_alloy.jobString>синтезирует титановый сплав</Make_titanium_alloy.jobString>
+  <Make_TIalloy.label>выплавить TI2 сплав x35</Make_TIalloy.label>
+  <Make_TIalloy.description>Выплавить улучшенную версию титанового сплава — TI2</Make_TIalloy.description>
+  <Make_TIalloy.jobString>выплавляет TI2 сплав</Make_TIalloy.jobString>
+  <Make_ZXA.label>синтезировать нейтральный амин</Make_ZXA.label>
+  <Make_ZXA.description>Синтезировать нейтральный амин</Make_ZXA.description>
+  <Make_ZXA.jobString>синтезирует</Make_ZXA.jobString>
+</LanguageData>

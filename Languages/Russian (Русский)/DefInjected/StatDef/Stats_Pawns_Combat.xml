@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeDoorDamageFactor.label>Множитель урона по дверям в ближнем бою</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.description>Специальный множитель урона, наносимого дверям в ближнем бою.</MeleeDoorDamageFactor.description>
+  <ShootingAccuracyChildFactor.label>Множитель точности стрельбы</ShootingAccuracyChildFactor.label>
+</LanguageData>

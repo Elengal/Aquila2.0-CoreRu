@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Mech_N_JianChaShiSurveillance.label>инспектор</Mech_N_JianChaShiSurveillance.label>
+  <Mech_N_JianChaShiSurveillance.description>Особый механоид, созданный кланом механоидов для идеального проекта Сияющей Республики Святого Завета. Ранее использовался для наблюдения за изучением технологий Орла местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип.</Mech_N_JianChaShiSurveillance.description>
+  <Mech_N_JianChaShiSurveillance.tools.0.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.0.label>
+  <Mech_N_JianChaShiSurveillance.tools.1.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.1.label>
+  <Mech_N_JianChaShiSurveillance.tools.2.label>хлёсткий удар</Mech_N_JianChaShiSurveillance.tools.2.label>
+  <Mech_N_JianChaShiSurveillance_Corpse.label>труп инспектора</Mech_N_JianChaShiSurveillance_Corpse.label>
+  <Mech_N_JianChaShiSurveillance_Corpse.description>Труп инспектора</Mech_N_JianChaShiSurveillance_Corpse.description>
+  <TY_MJiZQ_A_WeaponTurret.label>система вооружения — 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.label>
+  <TY_MJiZQ_A_WeaponTurret.description>19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.description>
+  <TY_Bxzd_AtB.label>кумулятивный снаряд</TY_Bxzd_AtB.label>
+  <TY_High_performance_broadband_chip.label>высокопроизводительный широкополосный чип</TY_High_performance_broadband_chip.label>
+  <TY_High_performance_broadband_chip.description>Ключевой компонент для создания высокопроизводительных широкополосных узлов.</TY_High_performance_broadband_chip.description>
+  <TY_Armed_mining_machine.label>«Крот»-1 экскаватор</TY_Armed_mining_machine.label>
+  <TY_Armed_mining_machine.description>«Крот»-1 — механоид, разработанный Федерацией Долины в 5472 году для земляных работ, горнодобычи и подземного строительства. Широкая голова оснащена лазерным излучателем для подземного бурения.
+Из-за политических потрясений 5472 года «Крот» не получил массового распространения. Создание Суверенной Конфедерации привело к потере множества передовых технологий, и «Крот» вместе с технологиями механоидов попал к механоидам Окраинного мира.</TY_Armed_mining_machine.description>
+  <TY_Armed_mining_machine.tools.0.label>левый кулак</TY_Armed_mining_machine.tools.0.label>
+  <TY_Armed_mining_machine.tools.1.label>правый кулак</TY_Armed_mining_machine.tools.1.label>
+  <TY_Armed_mining_machine.tools.2.label>голова</TY_Armed_mining_machine.tools.2.label>
+  <TY_Armed_mining_machine_Corpse.label>труп «Крот»-1</TY_Armed_mining_machine_Corpse.label>
+  <TY_Armed_mining_machine_Corpse.description>труп «Крот»-1</TY_Armed_mining_machine_Corpse.description>
+  <TY_qWifier_Bullet.label>лазер</TY_qWifier_Bullet.label>
+  <TY_MJQiang_A_Weapon.label>система вооружения — лазерное сверло механоидов</TY_MJQiang_A_Weapon.label>
+  <TY_MJQiang_A_Weapon.description>Лазерное сверло для горных работ. Можно использовать как оружие.</TY_MJQiang_A_Weapon.description>
+  <TY_Mech_CentipedeGunner.label>транспортная сороконожка</TY_Mech_CentipedeGunner.label>
+  <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный механоид, разработанный для добычи различных металлов и стали. Обычно оснащён скорострельным пулемётом для самозащиты.</TY_Mech_CentipedeGunner.description>
+  <TY_Mech_CentipedeGunner.tools.0.label>голова</TY_Mech_CentipedeGunner.tools.0.label>
+  <TY_Mech_CentipedeGunner_Corpse.label>труп транспортной сороконожки</TY_Mech_CentipedeGunner_Corpse.label>
+  <TY_Mech_CentipedeGunner_Corpse.description>труп транспортной сороконожки</TY_Mech_CentipedeGunner_Corpse.description>
+</LanguageData>

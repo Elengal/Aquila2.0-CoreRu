@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Magic_AtCY.label>боевой препарат бофеан</Magic_AtCY.label>
+  <Magic_AtCY.description>Бофеан применялся солдатами различных звёздных империй во время Сумеречных войн. Относительно дешёвый, он значительно усиливает боевые способности. В новой Сумеречной войне его широко использовали Сияющие для тактик быстрого прорыва.</Magic_AtCY.description>
+  <Magic_AtCY.ingestible.ingestCommandString>выпить {0}</Magic_AtCY.ingestible.ingestCommandString>
+  <Magic_AtCY.ingestible.ingestReportString>несёт {0}.</Magic_AtCY.ingestible.ingestReportString>
+</LanguageData>

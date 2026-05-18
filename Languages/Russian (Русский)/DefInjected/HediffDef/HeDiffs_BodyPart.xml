@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EtherCore.label>титан-II атомный реактор</EtherCore.label>
+  <EtherCore.description>Энергетическое ядро форм жизни Люсии и некоторых особых созданий.</EtherCore.description>
+  <ShingLanArm.label>атомная бионическая рука</ShingLanArm.label>
+  <ShingLanArm.description>Бионическая рука</ShingLanArm.description>
+  <ShingLanLeg.label>атомная бионическая нога</ShingLanLeg.label>
+  <ShingLanLeg.description>Бионическая нога</ShingLanLeg.description>
+  <ShingLanSpine.label>атомный бионический позвоночник</ShingLanSpine.label>
+  <ShingLanSpine.description>Бионический позвоночник</ShingLanSpine.description>
+  <ShingLanStomach.label>атомный бионический желудок</ShingLanStomach.label>
+  <ShingLanStomach.description>Бионический желудок</ShingLanStomach.description>
+  <ShingLanLung.label>атомное бионическое лёгкое</ShingLanLung.label>
+  <ShingLanLung.description>Бионическое лёгкое</ShingLanLung.description>
+  <ShingLanKidney.label>атомная бионическая почка</ShingLanKidney.label>
+  <ShingLanKidney.description>Бионическая почка</ShingLanKidney.description>
+  <ShingLanLiver.label>атомная бионическая печень</ShingLanLiver.label>
+  <ShingLanLiver.description>Бионическая печень</ShingLanLiver.description>
+  <ShingLanEye.label>атомный бионический глаз</ShingLanEye.label>
+  <ShingLanEye.description>Бионический глаз</ShingLanEye.description>
+  <ShingLanEar.label>атомное бионическое ухо</ShingLanEar.label>
+  <ShingLanEar.description>Бионическое ухо</ShingLanEar.description>
+</LanguageData>

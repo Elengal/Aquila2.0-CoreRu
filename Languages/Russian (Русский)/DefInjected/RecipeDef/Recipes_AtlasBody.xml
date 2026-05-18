@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Make_SlYan.label>изготовить атомный бионический глаз</Make_SlYan.label>
+  <Make_SlYan.description>Изготовить атомный бионический глаз</Make_SlYan.description>
+  <Make_SlYan.jobString>изготавливает</Make_SlYan.jobString>
+  <Make_SlEr.label>изготовить атомное бионическое ухо</Make_SlEr.label>
+  <Make_SlEr.description>Изготовить атомное бионическое ухо</Make_SlEr.description>
+  <Make_SlEr.jobString>изготавливает</Make_SlEr.jobString>
+  <Make_SlJizhui.label>изготовить атомный бионический позвоночник</Make_SlJizhui.label>
+  <Make_SlJizhui.description>Изготовить атомный бионический позвоночник</Make_SlJizhui.description>
+  <Make_SlJizhui.jobString>изготавливает</Make_SlJizhui.jobString>
+  <Make_SlWei.label>изготовить атомный бионический желудок</Make_SlWei.label>
+  <Make_SlWei.description>Изготовить атомный бионический желудок</Make_SlWei.description>
+  <Make_SlWei.jobString>изготавливает</Make_SlWei.jobString>
+  <Make_SlFei.label>изготовить атомное бионическое лёгкое</Make_SlFei.label>
+  <Make_SlFei.description>Изготовить атомное бионическое лёгкое</Make_SlFei.description>
+  <Make_SlFei.jobString>изготавливает</Make_SlFei.jobString>
+  <Make_SlShen.label>изготовить атомную бионическую почку</Make_SlShen.label>
+  <Make_SlShen.description>Изготовить атомную бионическую почку</Make_SlShen.description>
+  <Make_SlShen.jobString>изготавливает</Make_SlShen.jobString>
+  <Make_SlGan.label>изготовить атомную бионическую печень</Make_SlGan.label>
+  <Make_SlGan.description>Изготовить атомную бионическую печень</Make_SlGan.description>
+  <Make_SlGan.jobString>изготавливает</Make_SlGan.jobString>
+  <Make_SlBi.label>изготовить атомную бионическую руку</Make_SlBi.label>
+  <Make_SlBi.description>Изготовить атомную бионическую руку</Make_SlBi.description>
+  <Make_SlBi.jobString>изготавливает</Make_SlBi.jobString>
+  <Make_SlTui.label>изготовить атомную бионическую ногу</Make_SlTui.label>
+  <Make_SlTui.description>Изготовить атомную бионическую ногу</Make_SlTui.description>
+  <Make_SlTui.jobString>изготавливает</Make_SlTui.jobString>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AXBD_AtThought.stages.0.label>съел бэнто</AXBD_AtThought.stages.0.label>
+  <AXBD_AtThought.stages.0.description>Это блюдо с небес, сколько раз в жизни его попробуешь?</AXBD_AtThought.stages.0.description>
+  
+  <Snack_ThoughtTY.stages.0.label>съел закуску</Snack_ThoughtTY.stages.0.label>
+  <Snack_ThoughtTY.stages.0.description>Я съел очень вкусную закуску.</Snack_ThoughtTY.stages.0.description>
+  
+  <JZGT_AtThought.stages.0.label>съел консервы</JZGT_AtThought.stages.0.label>
+  <JZGT_AtThought.stages.0.description>Очень вкусные консервы, ммм.</JZGT_AtThought.stages.0.description>
+  
+  <Jbdl_AtThought.stages.0.label>выпил энергетик</Jbdl_AtThought.stages.0.label>
+  <Jbdl_AtThought.stages.0.description>Я чувствую странное возбуждение, в этом энергетике что-то есть...</Jbdl_AtThought.stages.0.description>
+  
+  <Yysj_AtThought.stages.0.label>съел жареную курицу</Yysj_AtThought.stages.0.label>
+  <Yysj_AtThought.stages.0.description>Я съел курицу с нежным сочным мясом, хрустящей кожицей и богатым вкусом. Как приятно!</Yysj_AtThought.stages.0.description>
+  
+  <Mgjb_AtThought.stages.0.label>съел буррито</Mgjb_AtThought.stages.0.label>
+  <Mgjb_AtThought.stages.0.description>Вкусное буррито.</Mgjb_AtThought.stages.0.description>
+  
+  <Lbmb_AtThought.stages.0.label>съел бургер</Lbmb_AtThought.stages.0.label>
+  <Lbmb_AtThought.stages.0.description>Съесть бургер на Окраинном мире — и проблем стало меньше.</Lbmb_AtThought.stages.0.description>
+  
+  <QAMZZ_AtThought.stages.0.label>высокомерие</QAMZZ_AtThought.stages.0.label>
+  <QAMZZ_AtThought.stages.0.description>Эффект настроения от высокомерия.</QAMZZ_AtThought.stages.0.description>
+  
+  <QBNZZ_AtThought.stages.0.label>ярость</QBNZZ_AtThought.stages.0.label>
+  <QBNZZ_AtThought.stages.0.description>Эффект настроения от ярости.</QBNZZ_AtThought.stages.0.description>
+  
+</LanguageData>

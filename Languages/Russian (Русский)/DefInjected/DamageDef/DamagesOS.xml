@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CJBombShang.label>осколочная атака</CJBombShang.label>
+  <CJBombShang.deathMessage>{0} нашпигован осколками</CJBombShang.deathMessage>
+  <HotShao.label>плазменный ожог</HotShao.label>
+  <HotShao.deathMessage>{0} сгорел заживо</HotShao.deathMessage>
+  <MaBiShang.label>паралич</MaBiShang.label>
+  <MaBiShang.deathMessage>{0} умер от остановки сердца</MaBiShang.deathMessage>
+  <MaBiSShang.label>ментальный электрозамок</MaBiSShang.label>
+  <MaBiSShang.deathMessage>сердце {0} было сжато ментальным электрозамком</MaBiSShang.deathMessage>
+  <LZShang.label>расплавление</LZShang.label>
+  <LZShang.deathMessage>{0} превратился в пепел</LZShang.deathMessage>
+  <BingShang.label>заморозка</BingShang.label>
+  <BingShang.deathMessage>{0} превратился в ледяную статую</BingShang.deathMessage>
+  <PBShang.label>осколочная атака</PBShang.label>
+  <PBShang.deathMessage>{0} нашпигован осколками</PBShang.deathMessage>
+  <QiBaoShang.label>сотрясение</QiBaoShang.label>
+  <QiBaoShang.deathMessage>{0} разорван на куски</QiBaoShang.deathMessage>
+  <TY_DamageN_ImpactB.label>удар</TY_DamageN_ImpactB.label>
+  <TY_DamageN_ImpactB.deathMessage>{0} убит</TY_DamageN_ImpactB.deathMessage>
+  <TY_DamageN_ImpactS.label>удар</TY_DamageN_ImpactS.label>
+  <TY_DamageN_ImpactS.deathMessage>{0} убит</TY_DamageN_ImpactS.deathMessage>
+  <MagicImpact_Dmage.label>магический удар</MagicImpact_Dmage.label>
+  <MagicImpact_Dmage.deathMessage>{0} разорван магической энергией</MagicImpact_Dmage.deathMessage>
+</LanguageData>

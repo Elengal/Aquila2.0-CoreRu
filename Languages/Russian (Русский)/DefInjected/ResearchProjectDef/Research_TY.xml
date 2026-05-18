@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LQHS_AtRe.label>медикаменты</LQHS_AtRe.label>
+  <LQHS_AtRe.description>Добавляет множество лекарств, хотя некоторые требуют дальнейших исследований.</LQHS_AtRe.description>
+  <BQZG_AtRe.label>мебель Орла</BQZG_AtRe.label>
+  <BQZG_AtRe.description>Открывает доступ к некоторой мебели.</BQZG_AtRe.description>
+  <SZHW_AtRe.label>пища</SZHW_AtRe.label>
+  <SZHW_AtRe.description>Научиться готовить особую еду.</SZHW_AtRe.description>
+  <GDFS_AtRe.label>одежда</GDFS_AtRe.label>
+  <GDFS_AtRe.description>Разнообразная одежда.</GDFS_AtRe.description>
+  <STBD_AtRe.label>транспорт</STBD_AtRe.label>
+  <STBD_AtRe.description>Это заглушка, в будущем будут добавлены новые транспортные средства.</STBD_AtRe.description>
+  <XFP_AtRe.label>быт</XFP_AtRe.label>
+  <XFP_AtRe.description>Служит только как предварительное исследование.</XFP_AtRe.description>
+  <FYSD_AtRe.label>жизнь рождена из электричества</FYSD_AtRe.label>
+  <FYSD_AtRe.description>Мы заложим фундамент всех новых технологий.</FYSD_AtRe.description>
+  <XJCL_AtRe.label>материальная революция</XJCL_AtRe.label>
+  <XJCL_AtRe.description>Когда материальный фундамент полностью создан, мы сможем строить сияющие здания из электричества и стали.</XJCL_AtRe.description>
+  <TY_XJCL_AtRe.label>получение ресурсов от механоидов</TY_XJCL_AtRe.label>
+  <TY_XJCL_AtRe.description>Мы обнаружили, что у механоидов есть логистические подразделения. Если послать им специальный сигнал, мы сможем заманить их в нашу колонию. Уничтожив их, мы получим большое количество ресурсов.</TY_XJCL_AtRe.description>
+  <TY_AXJCL_AtRe.label>специальный генератор сигналов</TY_AXJCL_AtRe.label>
+  <TY_AXJCL_AtRe.description>От Королевы Войны мы получили странные чертежи. Чтобы использовать их, нужен особый сигнал для вызова специального механоидного кластера. (Внимание: эти механоиды очень сильны, убедитесь в достаточной огневой мощи)</TY_AXJCL_AtRe.description>
+  <CBFY_AtRe.label>вторая атомная революция</CBFY_AtRe.label>
+  <CBFY_AtRe.description>Нестабильность атомов и магнитных полей усилена, теперь они подчиняются нашей воле.</CBFY_AtRe.description>
+  <ZDZB_AtRe.label>вторая кожа</ZDZB_AtRe.label>
+  <ZDZB_AtRe.description>Новая кожа, созданная нами, не будет устаревшим эволюционным творением.</ZDZB_AtRe.description>
+  <XLYS_AtRe.label>телесная революция</XLYS_AtRe.label>
+  <XLYS_AtRe.description>Кровообращение, выработка гормонов, дыхание, пищеварение — всё это примитивно. Мы сделаем первый шаг к ускорению этих процессов и уменьшению их влияния.</XLYS_AtRe.description>
+  <FYZS_AtRe.label>симфония огня и крови</FYZS_AtRe.label>
+  <FYZS_AtRe.description>Отрубленные конечности! Руины! Кровь и гной! Взрывы! Столкновение стали! Какой прекрасный спектакль!</FYZS_AtRe.description>
+</LanguageData>

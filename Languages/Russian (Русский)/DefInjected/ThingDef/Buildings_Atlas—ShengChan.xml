@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HeChengWork.label>плавильня лёгких веществ</HeChengWork.label>
+  <HeChengWork.description>Плавильное оборудование для материалов второй атомной эпохи.</HeChengWork.description>
+  <HeChengWork_Blueprint.label>плавильня лёгких веществ (чертёж)</HeChengWork_Blueprint.label>
+  <HeChengWork_Blueprint_Install.label>плавильня лёгких веществ (чертёж)</HeChengWork_Blueprint_Install.label>
+  <HeChengWork_Frame.label>плавильня лёгких веществ (строение)</HeChengWork_Frame.label>
+  <HeChengWork_Frame.description>Плавильное оборудование для материалов второй атомной эпохи.</HeChengWork_Frame.description>
+  <QiMiaoWork.label>автоматический производственный комплекс</QiMiaoWork.label>
+  <QiMiaoWork.description>Станция для производства различных технологий космической эпохи с автоматизированными механизмами.</QiMiaoWork.description>
+  <QiMiaoWork_Blueprint.label>автоматический производственный комплекс (чертёж)</QiMiaoWork_Blueprint.label>
+  <QiMiaoWork_Blueprint_Install.label>автоматический производственный комплекс (чертёж)</QiMiaoWork_Blueprint_Install.label>
+  <QiMiaoWork_Frame.label>автоматический производственный комплекс (строение)</QiMiaoWork_Frame.label>
+  <QiMiaoWork_Frame.description>Станция для производства различных технологий космической эпохи с автоматизированными механизмами.</QiMiaoWork_Frame.description>
+  <ShengWuWork.label>станция синтеза атомных имплантов</ShengWuWork.label>
+  <ShengWuWork.description>Вторая атомная революция принесла новую чистую энергию, и вместе с ней появились новые технологии имплантов.</ShengWuWork.description>
+  <ShengWuWork_Blueprint.label>станция синтеза атомных имплантов (чертёж)</ShengWuWork_Blueprint.label>
+  <ShengWuWork_Blueprint_Install.label>станция синтеза атомных имплантов (чертёж)</ShengWuWork_Blueprint_Install.label>
+  <ShengWuWork_Frame.label>станция синтеза атомных имплантов (строение)</ShengWuWork_Frame.label>
+  <ShengWuWork_Frame.description>Вторая атомная революция принесла новую чистую энергию, и вместе с ней появились новые технологии имплантов.</ShengWuWork_Frame.description>
+  <LSFRJWork.label>старая швейная машина</LSFRJWork.label>
+  <LSFRJWork.description>Старая швейная машина, воссозданная с помощью современных технологий. Конечно, воссоздан и блестящий маховик, отполированный нежными руками за годы, и скрипучая педаль. Конструкция очень древняя, но работает отлично.</LSFRJWork.description>
+  <LSFRJWork_Blueprint.label>старая швейная машина (чертёж)</LSFRJWork_Blueprint.label>
+  <LSFRJWork_Blueprint_Install.label>старая швейная машина (чертёж)</LSFRJWork_Blueprint_Install.label>
+  <LSFRJWork_Frame.label>старая швейная машина (строение)</LSFRJWork_Frame.label>
+  <LSFRJWork_Frame.description>Старая швейная машина, воссозданная с помощью современных технологий. Конечно, воссоздан и блестящий маховик, отполированный нежными руками за годы, и скрипучая педаль. Конструкция очень древняя, но работает отлично.</LSFRJWork_Frame.description>
+</LanguageData>

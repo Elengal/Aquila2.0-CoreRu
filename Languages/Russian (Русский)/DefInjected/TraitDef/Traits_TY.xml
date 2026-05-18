@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <TY_Trait_YCBX.degreeDatas.0.label><![CDATA[<color=#66FF99><b>вера Фидес</b></color>]]></TY_Trait_YCBX.degreeDatas.0.label>
+  <TY_Trait_YCBX.degreeDatas.0.description>{PAWN_nameDef} — душа кристальной честности, живущая по непреложным принципам. Что бы {PAWN_nameDef} ни пообещал(а), {PAWN_pronoun} выполнит безукоризненно. Все {PAWN_objective} любят, но {PAWN_nameDef} часто остаётся в накладе, потому что {PAWN_pronoun} никогда не может отказать.</TY_Trait_YCBX.degreeDatas.0.description>
+  
+  <TY_Trait_KJW.degreeDatas.0.label><![CDATA[<color=#66FF99><b>король сделок</b></color>]]></TY_Trait_KJW.degreeDatas.0.label>
+  <TY_Trait_KJW.degreeDatas.0.description>На шахматной доске коммерции {PAWN_nameDef} носит титул «Король сделок» за своё исключительное умение торговаться. {PAWN_pronoun} обладает острым чувством пульса рынка и всегда находит оптимальный момент за столом переговоров, добиваясь наиболее выгодных условий благодаря своей проницательности и коммуникабельности.</TY_Trait_KJW.degreeDatas.0.description>
+  
+  <TY_Trait_ZL.degreeDatas.0.label><![CDATA[<color=#66FF99><b>самодисциплина</b></color>]]></TY_Trait_ZL.degreeDatas.0.label>
+  <TY_Trait_ZL.degreeDatas.0.description>{PAWN_nameDef} обладает исключительной самодисциплиной, что позволяет {PAWN_objective} превосходно управлять временем и ставить цели. {PAWN_pronoun} эффективно планирует своё расписание и неукоснительно выполняет задачи.</TY_Trait_ZL.degreeDatas.0.description>
+  
+  <TY_Trait_YG.degreeDatas.0.label><![CDATA[<color=#66FF99><b>смелым благоволит удача</b></color>]]></TY_Trait_YG.degreeDatas.0.label>
+  <TY_Trait_YG.degreeDatas.0.description>«Смелым благовозит удача» — девиз {PAWN_nameDef}. {PAWN_pronoun} всегда бесстрашно выступает против несправедливости и зла. {PAWN_possessive} смелые поступки вдохновляют окружающих, делая {PAWN_nameDef} воплощением справедливости.</TY_Trait_YG.degreeDatas.0.description>
+  
+  <TY_Trait_XZYM.degreeDatas.0.label><![CDATA[<color=#00FFE6><b>грация Галатеи</b></color>]]></TY_Trait_XZYM.degreeDatas.0.label>
+  <TY_Trait_XZYM.degreeDatas.0.description>Невероятно... {PAWN_nameDef} — просто самое прекрасное существо во вселенной. Даже аскет-монах, практиковавший десятилетиями, влюбится в {PAWN_objective} с первого взгляда.</TY_Trait_XZYM.degreeDatas.0.description>
+  
+  <TY_Trait_JXHZ.degreeDatas.0.label><![CDATA[<color=#444444><b>экстремальный пациент</b></color>]]></TY_Trait_JXHZ.degreeDatas.0.label>
+  <TY_Trait_JXHZ.degreeDatas.0.description>В мире внезапно появился неизвестный вирус. Этот мутагенный вирус вызывает необъяснимые симптомы, ранее невиданные в медицине. Он не только неизлечим, но и пробуждает тьму внутри людей, толкая их на преступления. Учёные называют заражённых «экстремальными пациентами».\nКогда сошёл Аваддон, он принёс дожди, рассыпанные как метеоры... Эти капли искали своих хозяев, как потерянные души, стремясь окрестить тех, кто утопает в отчаянии. {PAWN_nameDef} стал(а) экстремальным пациентом через это крещение отчаянием.</TY_Trait_JXHZ.degreeDatas.0.description>
+  
+  <TY_Trait_ZK.degreeDatas.0.label><![CDATA[<color=#C63300><b>боевая машина</b></color>]]></TY_Trait_ZK.degreeDatas.0.label>
+  <TY_Trait_ZK.degreeDatas.0.description>{PAWN_nameDef} — как боевая машина, отточившая свои боевые навыки до остроты.</TY_Trait_ZK.degreeDatas.0.description>
+  
+  <T14FCYZ.degreeDatas.0.label><![CDATA[<color=#66FF99><b>чёрный джек — хирург-шарлатан</b></color>]]></T14FCYZ.degreeDatas.0.label>
+  <T14FCYZ.degreeDatas.0.description>{PAWN_nameDef} — искусный хирург, известный своей необычайной медицинской экспертизой и хирургической техникой. {PAWN_nameDef} практикует без официальной медицинской лицензии, а {PAWN_possessive} методы и высокие гонорары часто вызывают споры, создавая {PAWN_objective} сомнительную репутацию в медицинском сообществе. Тем не менее, к {PAWN_objective} обращаются пациенты, потому что {PAWN_pronoun} способен вылечить сложные заболевания, с которыми не справляются другие хирурги.</T14FCYZ.degreeDatas.0.description>
+  
+</LanguageData>

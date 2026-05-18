@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AtPawn_N_Xia.label>странствующий рыцарь</AtPawn_N_Xia.label>
+  <AtPawn_N_Xia.labelPlural>странствующие рыцари</AtPawn_N_Xia.labelPlural>
+  <AtPawn_N_Xia.labelMale>странствующий рыцарь</AtPawn_N_Xia.labelMale>
+  <AtPawn_N_Xia.labelMalePlural>странствующие рыцари</AtPawn_N_Xia.labelMalePlural>
+  <AtPawn_N_Xia.labelFemale>странствующая рыцарь</AtPawn_N_Xia.labelFemale>
+  <AtPawn_N_Xia.labelFemalePlural>странствующие рыцари</AtPawn_N_Xia.labelFemalePlural>
+  <AtPawn_N_MechHunter.label>охотник на механоидов</AtPawn_N_MechHunter.label>
+  <AtPawn_N_MechHunter.labelPlural>охотники на механоидов</AtPawn_N_MechHunter.labelPlural>
+</LanguageData>

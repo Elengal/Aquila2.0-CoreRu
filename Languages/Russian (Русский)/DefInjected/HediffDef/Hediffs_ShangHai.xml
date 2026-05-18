@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MaBi_Shang.label><![CDATA[<color=#1E90FF><b>паралич</b></color>]]></MaBi_Shang.label>
+  <MaBi_Shang.description>Паралич от высоковольтного тока</MaBi_Shang.description>
+  <MaBi_Shang.comps.1.labelTendedWell>восстанавливается</MaBi_Shang.comps.1.labelTendedWell>
+  <MaBi_Shang.comps.1.labelTendedWellInner>восстанавливается</MaBi_Shang.comps.1.labelTendedWellInner>
+  <MaBi_Shang.comps.1.labelSolidTendedWell>обработано</MaBi_Shang.comps.1.labelSolidTendedWell>
+  <MaBi_Shang.injuryProps.destroyedLabel>пробит током</MaBi_Shang.injuryProps.destroyedLabel>
+  <MaBi_Shang.injuryProps.destroyedOutLabel>убит током</MaBi_Shang.injuryProps.destroyedOutLabel>
+  <MaBi_Shang.labelNoun>паралич</MaBi_Shang.labelNoun>
+  <Ice_Shang.label><![CDATA[<color=#87CEFA><b>обморожение</b></color>]]></Ice_Shang.label>
+  <Ice_Shang.description>Повреждение от низкой температуры</Ice_Shang.description>
+  <Ice_Shang.comps.1.labelTendedWell>восстанавливается</Ice_Shang.comps.1.labelTendedWell>
+  <Ice_Shang.comps.1.labelTendedWellInner>восстанавливается</Ice_Shang.comps.1.labelTendedWellInner>
+  <Ice_Shang.comps.1.labelSolidTendedWell>обработано</Ice_Shang.comps.1.labelSolidTendedWell>
+  <Ice_Shang.injuryProps.destroyedLabel>уничтожено обморожением</Ice_Shang.injuryProps.destroyedLabel>
+  <Ice_Shang.injuryProps.destroyedOutLabel>замёрзло</Ice_Shang.injuryProps.destroyedOutLabel>
+  <Ice_Shang.labelNoun>обморожение</Ice_Shang.labelNoun>
+  <MaBiS_Shang.label><![CDATA[<color=#1E90FF><b>ментальный электрозамок</b></color>]]></MaBiS_Shang.label>
+  <MaBiS_Shang.description>Молния сковала его сердце</MaBiS_Shang.description>
+  <MaBiS_Shang.comps.1.labelTendedWell>заживает</MaBiS_Shang.comps.1.labelTendedWell>
+  <MaBiS_Shang.comps.1.labelTendedWellInner>заживает</MaBiS_Shang.comps.1.labelTendedWellInner>
+  <MaBiS_Shang.comps.1.labelSolidTendedWell>заживает</MaBiS_Shang.comps.1.labelSolidTendedWell>
+  <MaBiS_Shang.injuryProps.destroyedLabel>задушен</MaBiS_Shang.injuryProps.destroyedLabel>
+  <MaBiS_Shang.injuryProps.destroyedOutLabel>задушен</MaBiS_Shang.injuryProps.destroyedOutLabel>
+  <MaBiS_Shang.labelNoun>молния сковала сердце</MaBiS_Shang.labelNoun>
+  <GhZuzhou_AtH.label><![CDATA[<color=#FFCC66><b>разъедание</b></color>]]></GhZuzhou_AtH.label>
+  <GhZuzhou_AtH.description>Если на тело попадёт это вещество, в разум начнут проникать непостижимые вещи и знания, и рассудок постепенно разрушится. Без своевременного лечения жертва сойдёт с ума.</GhZuzhou_AtH.description>
+  <GhZuzhou_AtH.comps.1.labelTendedWell>заживает</GhZuzhou_AtH.comps.1.labelTendedWell>
+  <GhZuzhou_AtH.comps.1.labelTendedWellInner>заживает</GhZuzhou_AtH.comps.1.labelTendedWellInner>
+  <GhZuzhou_AtH.comps.1.labelSolidTendedWell>ремиссия</GhZuzhou_AtH.comps.1.labelSolidTendedWell>
+  <GhZuzhou_AtH.injuryProps.destroyedLabel>разъеден</GhZuzhou_AtH.injuryProps.destroyedLabel>
+  <GhZuzhou_AtH.injuryProps.destroyedOutLabel>поражён разъеданием</GhZuzhou_AtH.injuryProps.destroyedOutLabel>
+  <GhZuzhou_AtH.labelNoun>разъедание</GhZuzhou_AtH.labelNoun>
+</LanguageData>
