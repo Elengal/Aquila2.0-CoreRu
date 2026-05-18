@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- Inspector -->
-  <Mech_N_JianChaShiSurveillance.label>инспектор</Mech_N_JianChaShiSurveillance.label>
-  <Mech_N_JianChaShiSurveillance.description>Особый механоид, созданный кланом механоидов для идеального проекта Сияющей Республики Святого Завета. Ранее использовался для наблюдения за изучением технологий Орла местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип.</Mech_N_JianChaShiSurveillance.description>
+  <Mech_N_JianChaShiSurveillance.label>Инспектор</Mech_N_JianChaShiSurveillance.label>
+  <Mech_N_JianChaShiSurveillance.description>Особый механоид, созданный в рамках идеального инженерного проекта Республики Завета Славы. Ранее использовался для надзора за изучением технологий Аквилы местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип.</Mech_N_JianChaShiSurveillance.description>
   <Mech_N_JianChaShiSurveillance.tools.0.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.0.label>
   <Mech_N_JianChaShiSurveillance.tools.1.label>удар кулаком</Mech_N_JianChaShiSurveillance.tools.1.label>
-  <Mech_N_JianChaShiSurveillance.tools.2.label>хлёсткий удар</Mech_N_JianChaShiSurveillance.tools.2.label>
+  <Mech_N_JianChaShiSurveillance.tools.2.label>хлёсткий удар ногой</Mech_N_JianChaShiSurveillance.tools.2.label>
   
-  <TY_MJiZQ_A_WeaponTurret.label>система вооружения — 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.label>
+  <TY_MJiZQ_A_WeaponTurret.label>Оружейная система: 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.label>
   <TY_MJiZQ_A_WeaponTurret.description>19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.description>
-  <TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>система вооружения — 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>
+  <TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>Оружейная система: 19.5 тяжёлый пулемёт</TY_MJiZQ_A_WeaponTurret.verbs.Verb_Shoot.label>
   
-  <TY_Bxzd_AtB.label>кумулятивный снаряд</TY_Bxzd_AtB.label>
+  <TY_Bxzd_AtB.label>кластерный бронебойный снаряд</TY_Bxzd_AtB.label>
   
   <!-- Mining Mech -->
-  <TY_Armed_mining_machine.label>«Крот»-1 добывающий механоид</TY_Armed_mining_machine.label>
-  <TY_Armed_mining_machine.description>«Крот»-1 добывающий механоид разработан Федерацией Долины в 5972 году для добычи, шахтных работ и подземного строительства. Широкая голова — лазерный излучатель для подземного бурения. Из-за политических потрясений 72 года «Крот» не был распространён. После создания Суверенной Федерации многие технологии попали к механоидам Окраинного мира.</TY_Armed_mining_machine.description>
+  <TY_Armed_mining_machine.label>«Крот-1»: горнодобывающий механоид</TY_Armed_mining_machine.label>
+  <TY_Armed_mining_machine.description>«Крот-1» — механоид, разработанный Федерацией Долины в 5972 году для земляных работ, горнодобычи и подземного строительства. Широкая голова оснащена лазерным излучателем для подземного бурения.\nИз-за политических потрясений 72 года «Крот» не получил массового распространения. Создание Суверенной Конфедерации привело к потере множества передовых технологий, и «Крот» вместе с технологиями механоидов попал к механоидам Окраинного мира.</TY_Armed_mining_machine.description>
   <TY_Armed_mining_machine.tools.left_fist.label>левый кулак</TY_Armed_mining_machine.tools.left_fist.label>
   <TY_Armed_mining_machine.tools.left_fist.labelNoLocation>кулак</TY_Armed_mining_machine.tools.left_fist.labelNoLocation>
   <TY_Armed_mining_machine.tools.right_fist.label>правый кулак</TY_Armed_mining_machine.tools.right_fist.label>
@@ -24,26 +24,25 @@
   <TY_Armed_mining_machine.tools.head.label>голова</TY_Armed_mining_machine.tools.head.label>
   
   <TY_qWifier_Bullet.label>лазер</TY_qWifier_Bullet.label>
-  <TY_MJQiang_A_Weapon.label>система вооружения — лазерное сверло механоидов</TY_MJQiang_A_Weapon.label>
-  <TY_MJQiang_A_Weapon.description>Лазерное сверло для горных работ. Можно использовать как оружие.</TY_MJQiang_A_Weapon.description>
-  <TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>система вооружения — лазерное сверло механоидов</TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>
+  <TY_MJQiang_A_Weapon.label>Оружейная система: лазерное бур механоидов</TY_MJQiang_A_Weapon.label>
+  <TY_MJQiang_A_Weapon.description>Лазерный бур для горных работ. Можно также использовать как оружие.</TY_MJQiang_A_Weapon.description>
+  <TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>Оружейная система: лазерное бур механоидов</TY_MJQiang_A_Weapon.verbs.Verb_Shoot.label>
   
   <!-- Transport Centipede -->
-  <TY_Mech_CentipedeGunner.label>транспортная сороконожка</TY_Mech_CentipedeGunner.label>
-  <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный механоид, разработанный для добычи металла и стали. Обычно оснащён скорострельным пулемётом для самозащиты.</TY_Mech_CentipedeGunner.description>
+  <TY_Mech_CentipedeGunner.label>транспортный механоид-сороконожка</TY_Mech_CentipedeGunner.label>
+  <TY_Mech_CentipedeGunner.description>Тяжёлый транспортный механоид, разработанный механоидами для добычи различных металлов и стали. Обычно оснащён скорострельным пулемётом для самозащиты.</TY_Mech_CentipedeGunner.description>
   <TY_Mech_CentipedeGunner.tools.head.label>голова</TY_Mech_CentipedeGunner.tools.head.label>
   
   <!-- Signal Transmitters -->
-  <TY_A_Induced_signal_transmitter.label>передатчик сигнала инспектора</TY_A_Induced_signal_transmitter.label>
-  <TY_A_Induced_signal_transmitter.description>Инспектор — особый механоид, созданный кланом механоидов для идеального проекта Сияющей Республики Святого Завета. Ранее использовался для наблюдения за изучением технологий Орла местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип. Сигнальный импульс сожжёт антенну, так что устройство одноразовое.</TY_A_Induced_signal_transmitter.description>
-  <TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>вызвать атаку инспектора</TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>
+  <TY_A_Induced_signal_transmitter.label>индуцирующий сигнальный передатчик Инспектора</TY_A_Induced_signal_transmitter.label>
+  <TY_A_Induced_signal_transmitter.description>Инспектор — особый механоид, созданный в рамках идеального инженерного проекта Республики Завета Славы. Ранее использовался для надзора за изучением технологий Аквилы местными жителями Окраинного мира. При уничтожении даёт высокопроизводительный широкополосный чип. Сигнальный импульс сожжёт антенну, поэтому устройство одноразовое.</TY_A_Induced_signal_transmitter.description>
+  <TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>Вызвать нападение механоидов Инспектора</TY_A_Induced_signal_transmitter.comps.CompUsable.useLabel>
   
   <TY_BandNode.label>высокопроизводительный широкополосный узел</TY_BandNode.label>
-  <TY_BandNode.description>Высокопроизводительный широкополосный узел.</TY_BandNode.description>
+  <TY_BandNode.description>Широкополосный узел с отличными характеристиками.</TY_BandNode.description>
   
-  <TY_BurnoutMechlinkBooster.label>приманка добывающих механоидов</TY_BurnoutMechlinkBooster.label>
-  <TY_BurnoutMechlinkBooster.description>Особое устройство связи с механоидами. При активации излучает специальный сигнал, привлекающий добывающий отряд механоидов. Победив их, можно собрать много ресурсов. Сигнальный импульс сожжёт антенну, так что устройство одноразовое.</TY_BurnoutMechlinkBooster.description>
-  <TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>вызвать атаку добывающих механоидов</TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  <TY_BurnoutMechlinkBooster.label>индуктор горнодобывающих механоидов</TY_BurnoutMechlinkBooster.label>
+  <TY_BurnoutMechlinkBooster.description>Особое устройство механоидной связи. При активации излучает импульс определённых частот, привлекающий горнодобывающий отряд механоидов. Победив их, можно собрать значительное количество ресурсов с обломков. Сигнальный импульс сожжёт антенну, поэтому устройство одноразовое.</TY_BurnoutMechlinkBooster.description>
+  <TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>Вызвать нападение горнодобывающих механоидов</TY_BurnoutMechlinkBooster.comps.CompUsable.useLabel>
   
 </LanguageData>
-

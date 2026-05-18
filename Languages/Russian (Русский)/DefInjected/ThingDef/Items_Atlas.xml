@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <titanium_alloy.label>титановый сплав</titanium_alloy.label>
-  <titanium_alloy.description>Титан обладает превосходными свойствами и широко применяется в аэрокосмической отрасли, судостроении, химической промышленности, транспорте, оружии, медицине, спорте и лёгкой промышленности.</titanium_alloy.description>
+  <titanium_alloy.description>Титан обладает выдающимися свойствами и широко применяется. Основные области применения: аэрокосмическая отрасль, судостроение, химическая и нефтехимическая промышленность, транспорт, вооружение, морская инженерия, энергетика, строительство, металлургия, медицина, спортивное оборудование, товары повседневного спроса и лёгкая промышленность.</titanium_alloy.description>
   <titanium_alloy.stuffProps.stuffAdjective>титановый сплав</titanium_alloy.stuffProps.stuffAdjective>
-  <TIalloy.label>бронированный сплав</TIalloy.label>
-  <TIalloy.description>Прочная и долговечная броневая сталь, полученная сваркой и плавлением металлов с разными свойствами.</TIalloy.description>
-  <TIalloy.stuffProps.stuffAdjective>TI2 сплав</TIalloy.stuffProps.stuffAdjective>
-  <EtherM.label>кристаллическая лента</EtherM.label>
-  <EtherM.description>Выглядит как огромная магнитная лента из Среднего мира, но на самом деле это электронный компонент с электронами, сжатыми в гибкую ленту.
-Прочнее и долговечнее металлических компонентов, может сворачиваться и хранить больше данных.</EtherM.description>
-  <TY_A_Nano_solvent.label>наномеханизмы</TY_A_Nano_solvent.label>
-  <TY_A_Nano_solvent.description>Одна из ключевых систем технологий Орла. Наномеханизмы применяются в военном оружии, гражданском строительстве, высоких технологиях, медицине, развитии пси-способностей, строительных работах и механоидах.</TY_A_Nano_solvent.description>
+
+  <TIalloy.label>сплав TI2</TIalloy.label>
+  <TIalloy.description>Обновлённая версия титанового сплава</TIalloy.description>
+  <TIalloy.stuffProps.stuffAdjective>сплав TI2</TIalloy.stuffProps.stuffAdjective>
+
+  <EtherM.label>кристалломагнитная лента</EtherM.label>
+  <EtherM.description>Кристалломагнитная лента обычно изготавливается путём копирования данных активности человеческого мозга. Её можно представить как необычайно прочную и гибкую микросхему в виде свёрнутой магнитной ленты, которую практически невозможно повредить.</EtherM.description>
+
+  <TY_A_Nano_solvent.label>наномашины</TY_A_Nano_solvent.label>
+  <TY_A_Nano_solvent.description>Одна из ключевых технологических систем сектора Аквилы. Наномашины играют важнейшую роль в военном вооружении, гражданском строительстве, высокоточных технологиях, медицине, развитии пси-способностей, строительных работах и механоидах.</TY_A_Nano_solvent.description>
+
   <EHeart.label>бьющееся сердце</EHeart.label>
-  <EHeart.description>Свежее сердце, полученное от нечеловеческого монстра, например, из Сияющего Святилища.</EHeart.description>
+  <EHeart.description>Свежие сердца, добытые из нечеловеческих монстров, например, из Сияющего Храма.</EHeart.description>
+
+
 </LanguageData>

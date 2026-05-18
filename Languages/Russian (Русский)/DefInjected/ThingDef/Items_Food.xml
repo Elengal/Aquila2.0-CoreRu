@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+
   <Sugar_AtFood.label>конфеты</Sugar_AtFood.label>
   <Sugar_AtFood.description>Вкусные конфеты</Sugar_AtFood.description>
-  <AXBD_AtFood.label>изысканный бэнто</AXBD_AtFood.label>
-  <AXBD_AtFood.description>Изысканный бэнто. Трудно представить, что такую еду можно найти на Окраинном мире. (Но готовить хлопотно)</AXBD_AtFood.description>
+
+  <AXBD_AtFood.label>изысканный бенто</AXBD_AtFood.label>
+  <AXBD_AtFood.description>Изысканный бенто. Для бесчисленных колонистов на Окраинном мире есть такую изысканную еду было немыслимо. (Но готовить — мучение)</AXBD_AtFood.description>
+
   <Yysj_AtFood.label>жареная курица</Yysj_AtFood.label>
-  <Yysj_AtFood.description>Жареная курица — очень популярное китайское блюдо. Курицу маринуют в специальном соусе и запекают при высокой температуре до золотистой корочки.</Yysj_AtFood.description>
-  <Mgjb_AtFood.label>буррито</Mgjb_AtFood.label>
-  <Mgjb_AtFood.description>Буррито, или кукурузная лепёшка — традиционное мексиканское блюдо. Красочное и яркое украшение с мексиканским колоритом.</Mgjb_AtFood.description>
-  <Lbmz_AtFood.label>бургер</Lbmz_AtFood.label>
-  <Lbmz_AtFood.description>Еда из хлеба, овощей и мяса. Говорят, это фастфуд. Но если разложить ингредиенты, это уже не фастфуд. Удивительно.</Lbmz_AtFood.description>
-  <Jbdl_AtFood.label>энергетик</Jbdl_AtFood.label>
-  <Jbdl_AtFood.description>Одна бутылка — бодрость, две — неутомимость, три — бессмертие...</Jbdl_AtFood.description>
+  <Yysj_AtFood.description>Жареная курица, также известная как цыплёнок табака — очень популярное китайское блюдо. Процесс приготовления включает маринование целой курицы в специальном маринаде с последующим запеканием при высокой температуре, чтобы мясо прожарилось, а кожица стала золотистой.</Yysj_AtFood.description>
+
+  <Mgjb_AtFood.label>мексиканский буррито</Mgjb_AtFood.label>
+  <Mgjb_AtFood.description>Буррито — традиционное мексиканское блюдо, состоящее из пшеничной лепёшки с начинкой из мяса или бобов.</Mgjb_AtFood.description>
+
+  <Lbmz_AtFood.label>гамбургер</Lbmz_AtFood.label>
+  <Lbmz_AtFood.description>Еда из хлеба с овощами и мясом. Говорят, это фастфуд. Но если разобрать ингредиенты по отдельности — это уже не фастфуд. Как удивительно.</Lbmz_AtFood.description>
+
+  <Jbdl_AtFood.label>энергетический напиток</Jbdl_AtFood.label>
+  <Jbdl_AtFood.description>Одна бутылка бодрит, две — прощайте усталость, три — бессмертие... почти.</Jbdl_AtFood.description>
+
   <JZGT_AtFood.label>изысканные консервы</JZGT_AtFood.label>
-  <JZGT_AtFood.description>Изысканные консервы с добавками для повышения иммунитета и витаминов.</JZGT_AtFood.description>
+  <JZGT_AtFood.description>Изысканные консервы с ингредиентами, повышающими иммунитет и восполняющими витамины.</JZGT_AtFood.description>
+
   <Qqlb_AtFood.label>энергетический батончик</Qqlb_AtFood.label>
-  <Qqlb_AtFood.description>Энергетический батончик даёт много энергии.</Qqlb_AtFood.description>
+  <Qqlb_AtFood.description>Энергетический батончик, дающий много энергии.</Qqlb_AtFood.description>
+
   <JBQS_AtFood.label>содовая</JBQS_AtFood.label>
-  <JBQS_AtFood.description>Точно не Coca-Cola</JBQS_AtFood.description>
+  <JBQS_AtFood.description>Точно не К*к*-К*л*.</JBQS_AtFood.description>
+
   <SP_AtFood.label>чипсы</SP_AtFood.label>
-  <SP_AtFood.description>В чипсы добавлен стимулятор?</SP_AtFood.description>
+  <SP_AtFood.description>В чипсах что, стимуляторы?</SP_AtFood.description>
+
   <Jdxl_AtFood.label>мороженое</Jdxl_AtFood.label>
   <Jdxl_AtFood.description>Вкусное мороженое</Jdxl_AtFood.description>
-  <Kkms_AtFood.label>какао-мусс</Kkms_AtFood.label>
-  <Kkms_AtFood.description>(Честно говоря, я не знаю, как это называется)</Kkms_AtFood.description>
+
+  <Kkms_AtFood.label>шоколадный мусс</Kkms_AtFood.label>
+  <Kkms_AtFood.description>(Честно говоря, я и сам не знаю, как это называется)</Kkms_AtFood.description>
+
+
 </LanguageData>

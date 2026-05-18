@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TYHuman.label>человек Aquila</TYHuman.label>
+  <TYHuman.label>человек Аквилы</TYHuman.label>
   <TYHuman.corePart.parts.0.customLabel>рёбра</TYHuman.corePart.parts.0.customLabel>
   <TYHuman.corePart.parts.1.customLabel>грудина</TYHuman.corePart.parts.1.customLabel>
   <TYHuman.corePart.parts.2.customLabel>таз</TYHuman.corePart.parts.2.customLabel>
   <TYHuman.corePart.parts.3.customLabel>позвоночник</TYHuman.corePart.parts.3.customLabel>
   <TYHuman.corePart.parts.4.customLabel>желудок</TYHuman.corePart.parts.4.customLabel>
-  <TYHuman.corePart.parts.5.customLabel>реактор (сердце)</TYHuman.corePart.parts.5.customLabel>
+  <TYHuman.corePart.parts.5.customLabel>эфирное ядро (сердце)</TYHuman.corePart.parts.5.customLabel>
   <TYHuman.corePart.parts.6.customLabel>левое лёгкое</TYHuman.corePart.parts.6.customLabel>
   <TYHuman.corePart.parts.7.customLabel>правое лёгкое</TYHuman.corePart.parts.7.customLabel>
   <TYHuman.corePart.parts.8.customLabel>левая почка</TYHuman.corePart.parts.8.customLabel>

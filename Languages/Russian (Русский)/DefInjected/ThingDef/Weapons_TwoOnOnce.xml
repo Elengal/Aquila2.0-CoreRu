@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <TY_N_BaiLingS_Weapon.label>обрез</TY_N_BaiLingS_Weapon.label>
-  <TY_N_BaiLingS_Weapon.description>Дробовик с коротким стволом и складным прикладом, вместимость — всего два патрона. Теоретически можно использовать как сигнальное оружие, но его любят колонисты, пираты и даже имперские войска.</TY_N_BaiLingS_Weapon.description>
+
+  <TY_N_BaiLingS_Weapon.label>короткоствольный дробовик-пистолет</TY_N_BaiLingS_Weapon.label>
+  <TY_N_BaiLingS_Weapon.description>Дробовик-пистолет со складным прикладом, вмещающий максимум два патрона. Теоретически может использоваться для подачи сигналов, но пользуется популярностью у колонистов, пиратов и даже имперских вооружённых сил.</TY_N_BaiLingS_Weapon.description>
   <TY_N_BaiLingS_Weapon.tools.0.label>приклад</TY_N_BaiLingS_Weapon.tools.0.label>
-  <TY_N_BaiLingS_Weapon.tools.1.label>рукоятка</TY_N_BaiLingS_Weapon.tools.1.label>
-  
+  <TY_N_BaiLingS_Weapon.tools.1.label>рукоять</TY_N_BaiLingS_Weapon.tools.1.label>
+
+
 </LanguageData>

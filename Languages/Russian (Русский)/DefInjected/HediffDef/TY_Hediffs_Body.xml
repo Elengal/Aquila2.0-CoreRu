@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TY_DeathRefusal.label>наномеханизмы воскрешения</TY_DeathRefusal.label>
-  <TY_DeathRefusal.description>Наномеханизмы воскрешения</TY_DeathRefusal.description>
+
+  <!-- </li>
+    </comps>
+    <tags>
+      <li>OvumExtracted</li>
+    </tags>
+  </HediffDef> -->
+
+  <TY_DeathRefusal.label>Воскрешающие наномикромеханизмы</TY_DeathRefusal.label>
+  <TY_DeathRefusal.description>Воскрешающие наномикромеханизмы</TY_DeathRefusal.description>
+
+
 </LanguageData>

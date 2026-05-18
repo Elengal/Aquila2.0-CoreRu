@@ -7,19 +7,19 @@
   <SLDD_AtBuild_Frame.label>яркий светильник (строение)</SLDD_AtBuild_Frame.label>
   <SLDD_AtBuild_Frame.description>Яркий светильник со встроенным источником питания. Несколько штук осветят всю колонию.</SLDD_AtBuild_Frame.description>
   <YanTi_AtBuild.label>защитная стена</YanTi_AtBuild.label>
-  <YanTi_AtBuild.description>Защитная стена, настоящее укрытие. Края стены построены по особой архитектуре — только малая часть пуль пробьёт край, остальные отрикошетят. Но строительство требует много материалов и времени. (Нужно стоять рядом со стеной для защиты.)</YanTi_AtBuild.description>
+  <YanTi_AtBuild.description>Защитная стена — настоящее укрытие. Края стены построены по особой архитектуре: только малая часть пуль пробьёт край, остальные отрикошетят. Но строительство требует много материалов и времени. (Нужно стоять вплотную к стене, чтобы получить защиту.)</YanTi_AtBuild.description>
   <YanTi_AtBuild_Blueprint.label>защитная стена (чертёж)</YanTi_AtBuild_Blueprint.label>
   <YanTi_AtBuild_Frame.label>защитная стена (строение)</YanTi_AtBuild_Frame.label>
-  <YanTi_AtBuild_Frame.description>Защитная стена, настоящее укрытие. Края стены построены по особой архитектуре — только малая часть пуль пробьёт край, остальные отрикошетят. Но строительство требует много материалов и времени. (Нужно стоять рядом со стеной для защиты.)</YanTi_AtBuild_Frame.description>
-  <TY_MoisturePump.label>улучшенный дренажный насос</TY_MoisturePump.label>
-  <TY_MoisturePump.description>Улучшенный дренажный насос. Больше радиус, осушает за 5 дней.</TY_MoisturePump.description>
-  <TY_MoisturePump_Blueprint.label>улучшенный дренажный насос (чертёж)</TY_MoisturePump_Blueprint.label>
-  <TY_MoisturePump_Frame.label>улучшенный дренажный насос (строение)</TY_MoisturePump_Frame.label>
-  <TY_MoisturePump_Frame.description>Улучшенный дренажный насос. Больше радиус, осушает за 5 дней.</TY_MoisturePump_Frame.description>
-  <TY_A_strange_and_peculiar_doll.label>кукла конструкта</TY_A_strange_and_peculiar_doll.label>
+  <YanTi_AtBuild_Frame.description>Защитная стена — настоящее укрытие. Края стены построены по особой архитектуре: только малая часть пуль пробьёт край, остальные отрикошетят. Но строительство требует много материалов и времени. (Нужно стоять вплотную к стене, чтобы получить защиту.)</YanTi_AtBuild_Frame.description>
+  <TY_MoisturePump.label>улучшенный водоотливной насос</TY_MoisturePump.label>
+  <TY_MoisturePump.description>Улучшенный водоотливной насос: больший радиус действия, осушает всего за 5 дней.</TY_MoisturePump.description>
+  <TY_MoisturePump_Blueprint.label>улучшенный водоотливной насос (чертёж)</TY_MoisturePump_Blueprint.label>
+  <TY_MoisturePump_Frame.label>улучшенный водоотливной насос (строение)</TY_MoisturePump_Frame.label>
+  <TY_MoisturePump_Frame.description>Улучшенный водоотливной насос: больший радиус действия, осушает всего за 5 дней.</TY_MoisturePump_Frame.description>
+  <TY_A_strange_and_peculiar_doll.label>кукла-конструкт</TY_A_strange_and_peculiar_doll.label>
   <TY_A_strange_and_peculiar_doll.description>Кукла-талисман, но почему она в этой вкладке? Конечно, она не имеет никакой развлекательной функции, просто декорация.</TY_A_strange_and_peculiar_doll.description>
-  <TY_A_strange_and_peculiar_doll_Blueprint.label>кукла конструкта (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint.label>
-  <TY_A_strange_and_peculiar_doll_Blueprint_Install.label>кукла конструкта (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint_Install.label>
-  <TY_A_strange_and_peculiar_doll_Frame.label>кукла конструкта (строение)</TY_A_strange_and_peculiar_doll_Frame.label>
+  <TY_A_strange_and_peculiar_doll_Blueprint.label>кукла-конструкт (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint.label>
+  <TY_A_strange_and_peculiar_doll_Blueprint_Install.label>кукла-конструкт (чертёж)</TY_A_strange_and_peculiar_doll_Blueprint_Install.label>
+  <TY_A_strange_and_peculiar_doll_Frame.label>кукла-конструкт (строение)</TY_A_strange_and_peculiar_doll_Frame.label>
   <TY_A_strange_and_peculiar_doll_Frame.description>Кукла-талисман, но почему она в этой вкладке? Конечно, она не имеет никакой развлекательной функции, просто декорация.</TY_A_strange_and_peculiar_doll_Frame.description>
 </LanguageData>

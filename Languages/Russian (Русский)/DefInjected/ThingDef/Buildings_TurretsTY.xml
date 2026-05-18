@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <TY_N_BScfq_Bulding.label>лёгкая оборонительная турель</TY_N_BScfq_Bulding.label>
-  <TY_N_BScfq_Bulding.description>Лёгкая турель для защиты от мелких зверей и бандитов. Не ждите от неё многого в крупных сражениях, кроме отвлечения огня.</TY_N_BScfq_Bulding.description>
+  <TY_N_BScfq_Bulding.description>Лёгкая турель, разработанная для борьбы с мелкими зверями и бандитами. Не ждите от неё ничего, кроме привлечения огня в крупных сражениях.</TY_N_BScfq_Bulding.description>
   <TY_N_BScfq_Bulding_Blueprint.label>лёгкая оборонительная турель (чертёж)</TY_N_BScfq_Bulding_Blueprint.label>
   <TY_N_BScfq_Bulding_Frame.label>лёгкая оборонительная турель (строение)</TY_N_BScfq_Bulding_Frame.label>
-  <TY_N_BScfq_Bulding_Frame.description>Лёгкая турель для защиты от мелких зверей и бандитов. Не ждите от неё многого в крупных сражениях, кроме отвлечения огня.</TY_N_BScfq_Bulding_Frame.description>
-  <TY_BScfq_TurretWeapon.label>турель с ПП</TY_BScfq_TurretWeapon.label>
+  <TY_N_BScfq_Bulding_Frame.description>Лёгкая турель, разработанная для борьбы с мелкими зверями и бандитами. Не ждите от неё ничего, кроме привлечения огня в крупных сражениях.</TY_N_BScfq_Bulding_Frame.description>
+  <TY_BScfq_TurretWeapon.label>пулемётная турель</TY_BScfq_TurretWeapon.label>
   <TY_N_BSjzpt_Bulding.label>автоматический противотанковый бункер</TY_N_BSjzpt_Bulding.label>
-  <TY_N_BSjzpt_Bulding.description>Автоматический противотанковый бункер легко пробивает броню с высокой точностью, но слаб против ближних целей. Сочетайте с автоматическими пушками.</TY_N_BSjzpt_Bulding.description>
+  <TY_N_BSjzpt_Bulding.description>Автоматический противотанковый бункер легко пробивает броню с высокой точностью, но может испытывать затруднения против ближних целей. Сочетание с автоматическим пушечным бункером повышает эффективность.</TY_N_BSjzpt_Bulding.description>
   <TY_N_BSjzpt_Bulding_Blueprint.label>автоматический противотанковый бункер (чертёж)</TY_N_BSjzpt_Bulding_Blueprint.label>
   <TY_N_BSjzpt_Bulding_Frame.label>автоматический противотанковый бункер (строение)</TY_N_BSjzpt_Bulding_Frame.label>
-  <TY_N_BSjzpt_Bulding_Frame.description>Автоматический противотанковый бункер легко пробивает броню с высокой точностью, но слаб против ближних целей. Сочетайте с автоматическими пушками.</TY_N_BSjzpt_Bulding_Frame.description>
+  <TY_N_BSjzpt_Bulding_Frame.description>Автоматический противотанковый бункер легко пробивает броню с высокой точностью, но может испытывать затруднения против ближних целей. Сочетание с автоматическим пушечным бункером повышает эффективность.</TY_N_BSjzpt_Bulding_Frame.description>
   <TY_BSjzbq_TurretWeapon.label>автоматическая противотанковая пушка</TY_BSjzbq_TurretWeapon.label>
   <TY_N_Bsjzbq_Bullet.label>противотанковый снаряд</TY_N_Bsjzbq_Bullet.label>
-  <TY_N_BSlf_Bulding.label>автоматический пулемётный бункер</TY_N_BSlf_Bulding.label>
-  <TY_N_BSlf_Bulding.description>Автоматический пулемётный бункер с высокой скорострельностью и огневой мощью. Особенно эффективен против толп врагов. Сочетайте с точными турелями.</TY_N_BSlf_Bulding.description>
-  <TY_N_BSlf_Bulding_Blueprint.label>автоматический пулемётный бункер (чертёж)</TY_N_BSlf_Bulding_Blueprint.label>
-  <TY_N_BSlf_Bulding_Frame.label>автоматический пулемётный бункер (строение)</TY_N_BSlf_Bulding_Frame.label>
-  <TY_N_BSlf_Bulding_Frame.description>Автоматический пулемётный бункер с высокой скорострельностью и огневой мощью. Особенно эффективен против толп врагов. Сочетайте с точными турелями.</TY_N_BSlf_Bulding_Frame.description>
+  <TY_N_BSlf_Bulding.label>автоматический пушечный бункер</TY_N_BSlf_Bulding.label>
+  <TY_N_BSlf_Bulding.description>Автоматический пушечный бункер отличается высокой скорострельностью и мощным огнём, особенно эффективен против скоплений врагов. Сочетание с точными турелями позволяет максимизировать боевую эффективность.</TY_N_BSlf_Bulding.description>
+  <TY_N_BSlf_Bulding_Blueprint.label>автоматический пушечный бункер (чертёж)</TY_N_BSlf_Bulding_Blueprint.label>
+  <TY_N_BSlf_Bulding_Frame.label>автоматический пушечный бункер (строение)</TY_N_BSlf_Bulding_Frame.label>
+  <TY_N_BSlf_Bulding_Frame.description>Автоматический пушечный бункер отличается высокой скорострельностью и мощным огнём, особенно эффективен против скоплений врагов. Сочетание с точными турелями позволяет максимизировать боевую эффективность.</TY_N_BSlf_Bulding_Frame.description>
   <TY_BSlf_TurretWeapon.label>автоматическая пушка</TY_BSlf_TurretWeapon.label>
   <TY_N_Bslf_Bullet.label>снаряд автопушки</TY_N_Bslf_Bullet.label>
-  <TY_A_DropPodIncoming.label>высокоугольный щит Долины</TY_A_DropPodIncoming.label>
-  <TY_A_DropPodIncoming.description>Щит для перехвата навесных траекторий. Не может перехватывать снаряды ближнего боя. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming.description>
-  <TY_A_DropPodIncoming_Blueprint.label>высокоугольный щит Долины (чертёж)</TY_A_DropPodIncoming_Blueprint.label>
-  <TY_A_DropPodIncoming_Frame.label>высокоугольный щит Долины (строение)</TY_A_DropPodIncoming_Frame.label>
-  <TY_A_DropPodIncoming_Frame.description>Щит для перехвата навесных траекторий. Не может перехватывать снаряды ближнего боя. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming_Frame.description>
+  <TY_A_DropPodIncoming.label>высотный щит Долины</TY_A_DropPodIncoming.label>
+  <TY_A_DropPodIncoming.description>Щит, специально предназначенный для перехвата снарядов с навесной траекторией. Не способен перехватывать снаряды ближнего боя. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming.description>
+  <TY_A_DropPodIncoming_Blueprint.label>высотный щит Долины (чертёж)</TY_A_DropPodIncoming_Blueprint.label>
+  <TY_A_DropPodIncoming_Frame.label>высотный щит Долины (строение)</TY_A_DropPodIncoming_Frame.label>
+  <TY_A_DropPodIncoming_Frame.description>Щит, специально предназначенный для перехвата снарядов с навесной траекторией. Не способен перехватывать снаряды ближнего боя. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_Frame.description>
   <TY_A_DropPodIncoming_D.label>низкоугольный щит Долины</TY_A_DropPodIncoming_D.label>
-  <TY_A_DropPodIncoming_D.description>Щит для перехвата снарядов ближнего боя. Не может перехватывать навесные снаряды типа миномётов. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming_D.description>
+  <TY_A_DropPodIncoming_D.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D.description>
   <TY_A_DropPodIncoming_D_Blueprint.label>низкоугольный щит Долины (чертёж)</TY_A_DropPodIncoming_D_Blueprint.label>
   <TY_A_DropPodIncoming_D_Frame.label>низкоугольный щит Долины (строение)</TY_A_DropPodIncoming_D_Frame.label>
-  <TY_A_DropPodIncoming_D_Frame.description>Щит для перехвата снарядов ближнего боя. Не может перехватывать навесные снаряды типа миномётов. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming_D_Frame.description>
+  <TY_A_DropPodIncoming_D_Frame.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_Frame.description>
   <TY_A_DropPodIncoming_D_A.label>большой низкоугольный щит Долины</TY_A_DropPodIncoming_D_A.label>
-  <TY_A_DropPodIncoming_D_A.description>Щит для перехвата снарядов ближнего боя. Не может перехватывать навесные снаряды типа миномётов. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming_D_A.description>
+  <TY_A_DropPodIncoming_D_A.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A.description>
   <TY_A_DropPodIncoming_D_A_Blueprint.label>большой низкоугольный щит Долины (чертёж)</TY_A_DropPodIncoming_D_A_Blueprint.label>
   <TY_A_DropPodIncoming_D_A_Frame.label>большой низкоугольный щит Долины (строение)</TY_A_DropPodIncoming_D_A_Frame.label>
-  <TY_A_DropPodIncoming_D_A_Frame.description>Щит для перехвата снарядов ближнего боя. Не может перехватывать навесные снаряды типа миномётов. Питается от внутреннего источника, не подвержен солнечным вспышкам.</TY_A_DropPodIncoming_D_A_Frame.description>
+  <TY_A_DropPodIncoming_D_A_Frame.description>Щит, специально предназначенный для перехвата снарядов ближнего боя. Не способен перехватывать навесные снаряды, такие как миномётные. Питается от внутреннего источника, не требует внешнего питания и не подвержен влиянию солнечных вспышек.</TY_A_DropPodIncoming_D_A_Frame.description>
 </LanguageData>

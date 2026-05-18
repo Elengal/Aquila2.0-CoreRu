@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Magic_AtCYHigh.label><![CDATA[<color=#E93EFF><b>эффект бофеана</b></color>]]></Magic_AtCYHigh.label>
-  <Magic_AtCYHigh.description>Бофеан применялся солдатами различных звёздных империй во время Сумеречных войн. Относительно дешёвый, он значительно усиливает боевые способности. В новой Сумеречной войне его широко использовали Сияющие для тактик быстрого прорыва.</Magic_AtCYHigh.description>
-  <Magic_AtCYHigh.labelNoun>эффект бофеана</Magic_AtCYHigh.labelNoun>
-  <Magic_AtCYAddiction.label><![CDATA[<color=#E93EFF><b>зависимость от бофеана</b></color>]]></Magic_AtCYAddiction.label>
-  <Magic_AtCYAddiction.description>Жадность разрушает чистоту души людей, потому что, к сожалению, чем больше получаешь, тем более жадным становишься, и действительно всегда чувствуешь неудовлетворённость. — Ангел</Magic_AtCYAddiction.description>
+
+  <Magic_AtCYHigh.label>&lt;color=#E93EFF&gt;&lt;b&gt;Стимулирующий эффект бофеана&lt;/b&gt;&lt;/color&gt;</Magic_AtCYHigh.label>
+  <Magic_AtCYHigh.description>Бофеан применялся солдатами различных звёздных империй во время Сумеречных войн. Стоит относительно недорого и значительно усиливает боевые способности. В новой Сумеречной войне Церковь Славы широко применяет его для тактик быстрого прорыва.</Magic_AtCYHigh.description>
+  <Magic_AtCYHigh.labelNoun>Стимулирующий эффект бофеана</Magic_AtCYHigh.labelNoun>
+
+  <Magic_AtCYAddiction.label>&lt;color=#E93EFF&gt;&lt;b&gt;Зависимость от бофеана&lt;/b&gt;&lt;/color&gt;</Magic_AtCYAddiction.label>
+  <Magic_AtCYAddiction.description>Жадность разрушает чистоту души людей, потому что, к сожалению, чем больше приобретаешь, тем становишься жаднее, и действительно всегда чувствуешь неудовлетворённость. — Ангел</Magic_AtCYAddiction.description>
   <Magic_AtCYAddiction.stages.1.label>абстиненция</Magic_AtCYAddiction.stages.1.label>
+
+
 </LanguageData>

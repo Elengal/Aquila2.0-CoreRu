@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <TY_N_RocketS_Weapon.label>четырёхзарядный РПГ</TY_N_RocketS_Weapon.label>
-  <TY_N_RocketS_Weapon.description>Четырёхзарядный РПГ. Говорят, им пользуются только безумцы. Встроенная система расчёта траектории. Но такое мощное оружие одноразовое.</TY_N_RocketS_Weapon.description>
+
+  <TY_N_RocketS_Weapon.label>четырёхзарядная ракетница</TY_N_RocketS_Weapon.label>
+  <TY_N_RocketS_Weapon.description>Четырёхствольная ракетница. Говорят, её используют только безумцы. Оружие оснащено встроенной системой расчёта траектории для помощи в прицеливании. Однако это грозное устройство разрушается после одного применения.</TY_N_RocketS_Weapon.description>
+
   <TY_N_RocketS_Bullet.label>ракета</TY_N_RocketS_Bullet.label>
   <IceBall_Atlas.label>ледяной снаряд</IceBall_Atlas.label>
-  
-  <TY_N_BaiLingX_Bullet.label>12 калибр</TY_N_BaiLingX_Bullet.label>
-  <TY_N_BaiLingX_Weapon.label>Винчестер-44 мод.</TY_N_BaiLingX_Weapon.label>
-  <TY_N_BaiLingX_Weapon.description>Упрощённый дробовик с увеличенным разбросом в ущерб точности. Всё, что мы знаем — это модификация Винчестера, возможно, 44 год модификации, но в какую эпоху — 5544 или 3544 — неизвестно.</TY_N_BaiLingX_Weapon.description>
+
+
+  <!-- Современное оружие↓ -->
+
+  <TY_N_BaiLingX_Bullet.label>12-й калибр свинцовая пуля</TY_N_BaiLingX_Bullet.label>
+
+  <TY_N_BaiLingX_Weapon.label>дробовик «Винчестер-44 мод.»</TY_N_BaiLingX_Weapon.label>
+  <TY_N_BaiLingX_Weapon.description>Дальнейшее упрощение конструкции для снижения веса: жертвует точностью ради увеличения разброса и большей поражающей способности.\nЕдинственное, что известно — этот дробовик является модификацией Винчестера, а название «44 мод.» может означать, что он был модифицирован в году ??44. Но история столь древняя, что неизвестно — то ли в 5544, то ли в 3544.</TY_N_BaiLingX_Weapon.description>
   <TY_N_BaiLingX_Weapon.tools.0.label>приклад</TY_N_BaiLingX_Weapon.tools.0.label>
-  
-  <TY_N_BaiLingZ_Bullet.label>5.45мм патрон средней мощности</TY_N_BaiLingZ_Bullet.label>
-  <TY_N_BaiLingZ_Weapon.label>Ака-1999</TY_N_BaiLingZ_Weapon.label>
-  <TY_N_BaiLingZ_Weapon.description>Серия Ака — одно из древнейших боевых орудий человечества, используемое как местными жителями Окраинного мира, так и в межзвёздных войнах. Создатель и точная дата модели 1999 неизвестны, но это не мешает оружию сиять в руках пиратов и торговцев.</TY_N_BaiLingZ_Weapon.description>
+
+  <TY_N_BaiLingZ_Bullet.label>5.45мм промежуточный патрон</TY_N_BaiLingZ_Bullet.label>
+
+  <TY_N_BaiLingZ_Weapon.label>винтовка «Ака»</TY_N_BaiLingZ_Weapon.label>
+  <TY_N_BaiLingZ_Weapon.description>Серия оружия «Ака» — одно из древнейших боевых орудий человечества, активно используемое как в местных конфликтах Окраинного мира, так и в межзвёздных мировых войнах. Создатель и точный год создания модели 1999 не задокументированы, но это не мешает оружию широко применяться пиратами и караванами на Окраинном мире.</TY_N_BaiLingZ_Weapon.description>
   <TY_N_BaiLingZ_Weapon.tools.0.label>приклад</TY_N_BaiLingZ_Weapon.tools.0.label>
-  
-  <TY_N_BaiLingJ_Bullet.label>7.62мм полномощный патрон</TY_N_BaiLingJ_Bullet.label>
-  <TY_N_BaiLingJ_Weapon.label>Ремингтон m1700</TY_N_BaiLingJ_Weapon.label>
-  <TY_N_BaiLingJ_Weapon.description>Древнее оружие индустриальной эпохи, по-прежнему используемое на Окраинном мире и в межзвёздных войнах. Славится дальностью и точностью.</TY_N_BaiLingJ_Weapon.description>
+
+  <TY_N_BaiLingJ_Bullet.label>7.62мм винтовочный патрон</TY_N_BaiLingJ_Bullet.label>
+
+  <TY_N_BaiLingJ_Weapon.label>«Ремингтон m1700»</TY_N_BaiLingJ_Weapon.label>
+  <TY_N_BaiLingJ_Weapon.description>Древнее оружие индустриальной эпохи, по-прежнему активно участвующее в местных конфликтах Окраинного мира и межзвёздных мировых войнах. Славится превосходной дальностью и точностью.</TY_N_BaiLingJ_Weapon.description>
   <TY_N_BaiLingJ_Weapon.tools.0.label>приклад</TY_N_BaiLingJ_Weapon.tools.0.label>
-  
-  <TY_N_CiHeZ_Bullet.label>6.5мм магнитная пуля</TY_N_CiHeZ_Bullet.label>
-  <TY_N_CiHeZ_Weapon.label>магнитная штурмовая винтовка</TY_N_CiHeZ_Weapon.label>
-  <TY_N_CiHeZ_Weapon.description>Винтовка с магнитным ускорителем. Технология магнитных рельсов заряжает каждую пулю нестабильной энергией при выходе из ствола, которая высвобождается при попадании, увеличивая урон.</TY_N_CiHeZ_Weapon.description>
+
+  <TY_N_CiHeZ_Bullet.label>6.5мм магнитозарядная пуля</TY_N_CiHeZ_Bullet.label>
+
+  <TY_N_CiHeZ_Weapon.label>магнитозарядная автоматическая винтовка</TY_N_CiHeZ_Weapon.label>
+  <TY_N_CiHeZ_Weapon.description>Автоматическая винтовка, использующая технологию электромагнитного ускорения. Электромагнитные рельсы и прикладная электромагнитная технология заряжают каждую пулю нестабильной энергией при вылете из ствола, полностью высвобождая её при попадании, что значительно увеличивает урон снаряда.</TY_N_CiHeZ_Weapon.description>
   <TY_N_CiHeZ_Weapon.tools.0.label>приклад</TY_N_CiHeZ_Weapon.tools.0.label>
-  
-  <TY_N_CiHeJ_Bullet.label>9.5мм магнитная пуля</TY_N_CiHeJ_Bullet.label>
-  <TY_N_CiHeJ_Weapon.label>магнитная снайперская винтовка</TY_N_CiHeJ_Weapon.label>
-  <TY_N_CiHeJ_Weapon.description>Снайперская винтовка с магнитным ускорителем. Технология магнитных рельсов заряжает каждую пулю нестабильной энергией при выходе из ствола, которая высвобождается при попадании, увеличивая урон.</TY_N_CiHeJ_Weapon.description>
+
+  <TY_N_CiHeJ_Bullet.label>9.5мм магнитозарядная пуля</TY_N_CiHeJ_Bullet.label>
+
+  <TY_N_CiHeJ_Weapon.label>магнитозарядная снайперская винтовка</TY_N_CiHeJ_Weapon.label>
+  <TY_N_CiHeJ_Weapon.description>Снайперская винтовка, использующая технологию электромагнитного ускорения. Электромагнитные рельсы и прикладная электромагнитная технология заряжают каждую пулю нестабильной энергией при вылете из ствола, полностью высвобождая её при попадании, что значительно увеличивает урон снаряда.</TY_N_CiHeJ_Weapon.description>
   <TY_N_CiHeJ_Weapon.tools.0.label>приклад</TY_N_CiHeJ_Weapon.tools.0.label>
-  
-  <TY_N_CiHeX_Bullet.label>3.24мм магнитная пуля</TY_N_CiHeX_Bullet.label>
-  <TY_N_CiHeX_Weapon.label>магнитный дробовик</TY_N_CiHeX_Weapon.label>
-  <TY_N_CiHeX_Weapon.description>Дробовик с магнитным ускорителем. Технология магнитных рельсов заряжает каждую пулю нестабильной энергией при выходе из ствола, которая высвобождается при попадании, увеличивая урон. (12 пуль)</TY_N_CiHeX_Weapon.description>
+
+  <TY_N_CiHeX_Bullet.label>3.24мм магнитозарядная пуля</TY_N_CiHeX_Bullet.label>
+
+  <TY_N_CiHeX_Weapon.label>магнитозарядный дробовик</TY_N_CiHeX_Weapon.label>
+  <TY_N_CiHeX_Weapon.description>Дробовик, использующий технологию электромагнитного ускорения. Электромагнитные рельсы и прикладная электромагнитная технология заряжают каждую пулю нестабильной энергией при вылете из ствола, полностью высвобождая её при попадании, что значительно увеличивает урон снаряда. (12 свинцовых пуль/залп)</TY_N_CiHeX_Weapon.description>
   <TY_N_CiHeX_Weapon.tools.0.label>приклад</TY_N_CiHeX_Weapon.tools.0.label>
-  
-  <TY_N_FireGun_Bullet.label>зажигательный патрон</TY_N_FireGun_Bullet.label>
-  <TY_N_FireGun_Weapon.label>лавовый пулемёт</TY_N_FireGun_Weapon.label>
-  <TY_N_FireGun_Weapon.description>Оружие, созданное давно на Лавовой планете и списанное из-за низкого урона. Но высокая скорострельность и массовый поджог делают его идеальным для разрушений или «переговоров» с племенами...</TY_N_FireGun_Weapon.description>
+
+  <TY_N_FireGun_Bullet.label>зажигательный снаряд</TY_N_FireGun_Bullet.label>
+
+  <TY_N_FireGun_Weapon.label>«Лава» пулемёт</TY_N_FireGun_Weapon.label>
+  <TY_N_FireGun_Weapon.description>Это оружие было создано давно на Лавовой Звезде и списано из-за недостаточной поражающей способности. Однако высокая скорострельность и масштабный поджигающий эффект делают его идеальным для диверсий или «переговоров» с племенами.</TY_N_FireGun_Weapon.description>
   <TY_N_FireGun_Weapon.tools.0.label>приклад</TY_N_FireGun_Weapon.tools.0.label>
-  
+
+
 </LanguageData>

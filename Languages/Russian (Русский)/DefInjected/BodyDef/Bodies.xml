@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- TYHuman Body -->
-  <TYHuman.label>человек TY</TYHuman.label>
+  <TYHuman.label>человек Аквилы</TYHuman.label>
   <TYHuman.corePart.parts.0.customLabel>рёбра</TYHuman.corePart.parts.0.customLabel>
   <TYHuman.corePart.parts.1.customLabel>грудина</TYHuman.corePart.parts.1.customLabel>
   <TYHuman.corePart.parts.2.customLabel>таз</TYHuman.corePart.parts.2.customLabel>
@@ -37,7 +37,7 @@
   <TYHuman.corePart.parts.13.customLabel>правое плечо</TYHuman.corePart.parts.13.customLabel>
   <TYHuman.corePart.parts.13.parts.0.customLabel>правая ключица</TYHuman.corePart.parts.13.parts.0.customLabel>
   <TYHuman.corePart.parts.13.parts.1.customLabel>правая рука</TYHuman.corePart.parts.13.parts.1.customLabel>
-  <TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>правая бедренная кость</TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>
+  <TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>правая плечевая кость</TYHuman.corePart.parts.13.parts.1.parts.0.customLabel>
   <TYHuman.corePart.parts.13.parts.1.parts.1.customLabel>правая лучевая кость</TYHuman.corePart.parts.13.parts.1.parts.1.customLabel>
   <TYHuman.corePart.parts.13.parts.1.parts.2.customLabel>правая кисть</TYHuman.corePart.parts.13.parts.1.parts.2.customLabel>
   <TYHuman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>правый мизинец</TYHuman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
@@ -66,7 +66,7 @@
   <TYHuman.corePart.parts.16.parts.2.parts.4.customLabel>правый большой палец ноги</TYHuman.corePart.parts.16.parts.2.parts.4.customLabel>
   
   <!-- EtherK_Bodies -->
-  <EtherK_Bodies.label>торс</EtherK_Bodies.label>
+  <EtherK_Bodies.label>туловище</EtherK_Bodies.label>
   <EtherK_Bodies.corePart.parts.0.customLabel>правое крыло</EtherK_Bodies.corePart.parts.0.customLabel>
   <EtherK_Bodies.corePart.parts.1.customLabel>левое крыло</EtherK_Bodies.corePart.parts.1.customLabel>
   <EtherK_Bodies.corePart.parts.2.customLabel>дыхательный орган</EtherK_Bodies.corePart.parts.2.customLabel>
