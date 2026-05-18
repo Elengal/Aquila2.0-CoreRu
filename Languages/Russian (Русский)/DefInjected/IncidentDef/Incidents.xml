@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <TY_Incident_XiaJoin.label>странствующий рыцарь</TY_Incident_XiaJoin.label>
+  <TY_Incident_XiaJoin.letterLabel>странствующий рыцарь</TY_Incident_XiaJoin.letterLabel>
+  <TY_Incident_XiaJoin.letterText>Странствующий [PAWN_kind] заметил кризис в колонии.\n Сможет ли [PAWN_pronoun] помочь преодолеть беду?</TY_Incident_XiaJoin.letterText>
+  
+</LanguageData>
+

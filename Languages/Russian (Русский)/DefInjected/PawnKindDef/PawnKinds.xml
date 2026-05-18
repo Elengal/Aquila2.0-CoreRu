@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Mech_N_JianChaShiSurveillance.label>инспектор</Mech_N_JianChaShiSurveillance.label>
+  
+  <TY_Armed_mining_machine.label>«Крот»-1</TY_Armed_mining_machine.label>
+  
+  <TY_Mech_CentipedeGunner.label>транспортная сороконожка</TY_Mech_CentipedeGunner.label>
+  
+  <AtPawn_N_Xia.label>странствующий рыцарь</AtPawn_N_Xia.label>
+  <AtPawn_N_Xia.labelFemale>странствующий рыцарь</AtPawn_N_Xia.labelFemale>
+  <AtPawn_N_Xia.labelMale>странствующий рыцарь</AtPawn_N_Xia.labelMale>
+  <AtPawn_N_Xia.labelPlural>странствующие рыцари</AtPawn_N_Xia.labelPlural>
+  
+  <AtPawn_N_MechHunter.label>охотник на механоидов</AtPawn_N_MechHunter.label>
+  
+</LanguageData>
+

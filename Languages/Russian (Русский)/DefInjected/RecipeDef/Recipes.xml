@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Nano solvent -->
+  <TY_A_Nano_solvent_A.label>синтезировать нано-растворитель X35</TY_A_Nano_solvent_A.label>
+  <TY_A_Nano_solvent_A.description>Синтезировать нано-растворитель X35</TY_A_Nano_solvent_A.description>
+  <TY_A_Nano_solvent_A.jobString>синтезирует нано-растворитель</TY_A_Nano_solvent_A.jobString>
+  
+  <!-- Install Operations -->
+  <AddEtherCore.label>установить титан-II атомный реактор</AddEtherCore.label>
+  <AddEtherCore.description>Операция по установке</AddEtherCore.description>
+  <AddEtherCore.jobString>устанавливает титан-II атомный реактор</AddEtherCore.jobString>
+  
+  <EtherCore_ZZ.label>изготовить титан-II атомный реактор</EtherCore_ZZ.label>
+  <EtherCore_ZZ.description>Изготовить титан-II атомный реактор</EtherCore_ZZ.description>
+  <EtherCore_ZZ.jobString>изготавливает титан-II атомный реактор</EtherCore_ZZ.jobString>
+  
+  <AddSlArm.label>установить атомную бионическую руку</AddSlArm.label>
+  <AddSlArm.description>Операция по установке</AddSlArm.description>
+  <AddSlArm.jobString>устанавливает атомную бионическую руку</AddSlArm.jobString>
+  
+  <AddSlLeg.label>установить атомную бионическую ногу</AddSlLeg.label>
+  <AddSlLeg.description>Операция по установке</AddSlLeg.description>
+  <AddSlLeg.jobString>устанавливает атомную бионическую ногу</AddSlLeg.jobString>
+  
+  <AddSlEye.label>установить атомный бионический глаз</AddSlEye.label>
+  <AddSlEye.description>Операция по установке</AddSlEye.description>
+  <AddSlEye.jobString>устанавливает атомный бионический глаз</AddSlEye.jobString>
+  
+  <AddSlEar.label>установить атомное бионическое ухо</AddSlEar.label>
+  <AddSlEar.description>Операция по установке</AddSlEar.description>
+  <AddSlEar.jobString>устанавливает атомное бионическое ухо</AddSlEar.jobString>
+  
+  <AddSlSpine.label>установить атомный бионический позвоночник</AddSlSpine.label>
+  <AddSlSpine.description>Операция по установке</AddSlSpine.description>
+  <AddSlSpine.jobString>устанавливает атомный бионический позвоночник</AddSlSpine.jobString>
+  
+  <AddSlStomach.label>установить атомный бионический желудок</AddSlStomach.label>
+  <AddSlStomach.description>Операция по установке</AddSlStomach.description>
+  <AddSlStomach.jobString>устанавливает атомный бионический желудок</AddSlStomach.jobString>
+  
+  <AddSlLung.label>установить атомное бионическое лёгкое</AddSlLung.label>
+  <AddSlLung.description>Операция по установке</AddSlLung.description>
+  <AddSlLung.jobString>устанавливает атомное бионическое лёгкое</AddSlLung.jobString>
+  
+  <AddSlKidney.label>установить атомную бионическую почку</AddSlKidney.label>
+  <AddSlKidney.description>Операция по установке</AddSlKidney.description>
+  <AddSlKidney.jobString>устанавливает атомную бионическую почку</AddSlKidney.jobString>
+  
+  <AddSlLiver.label>установить атомную бионическую печень</AddSlLiver.label>
+  <AddSlLiver.description>Операция по установке</AddSlLiver.description>
+  <AddSlLiver.jobString>устанавливает атомную бионическую печень</AddSlLiver.jobString>
+  
+  <!-- Make Bionics -->
+  <Make_SlYan.label>изготовить атомный бионический глаз</Make_SlYan.label>
+  <Make_SlYan.description>Изготовить атомный бионический глаз</Make_SlYan.description>
+  <Make_SlYan.jobString>изготавливает</Make_SlYan.jobString>
+  
+  <Make_SlEr.label>изготовить атомное бионическое ухо</Make_SlEr.label>
+  <Make_SlEr.description>Изготовить атомное бионическое ухо</Make_SlEr.description>
+  <Make_SlEr.jobString>изготавливает</Make_SlEr.jobString>
+  
+  <Make_SlJizhui.label>изготовить атомный бионический позвоночник</Make_SlJizhui.label>
+  <Make_SlJizhui.description>Изготовить атомный бионический позвоночник</Make_SlJizhui.description>
+  <Make_SlJizhui.jobString>изготавливает</Make_SlJizhui.jobString>
+  
+  <Make_SlWei.label>изготовить атомный бионический желудок</Make_SlWei.label>
+  <Make_SlWei.description>Изготовить атомный бионический желудок</Make_SlWei.description>
+  <Make_SlWei.jobString>изготавливает</Make_SlWei.jobString>
+  
+  <Make_SlFei.label>изготовить атомное бионическое лёгкое</Make_SlFei.label>
+  <Make_SlFei.description>Изготовить атомное бионическое лёгкое</Make_SlFei.description>
+  <Make_SlFei.jobString>изготавливает</Make_SlFei.jobString>
+  
+  <Make_SlShen.label>изготовить атомную бионическую почку</Make_SlShen.label>
+  <Make_SlShen.description>Изготовить атомную бионическую почку</Make_SlShen.description>
+  <Make_SlShen.jobString>изготавливает</Make_SlShen.jobString>
+  
+  <Make_SlGan.label>изготовить атомную бионическую печень</Make_SlGan.label>
+  <Make_SlGan.description>Изготовить атомную бионическую печень</Make_SlGan.description>
+  <Make_SlGan.jobString>изготавливает</Make_SlGan.jobString>
+  
+  <Make_SlBi.label>изготовить атомную бионическую руку</Make_SlBi.label>
+  <Make_SlBi.description>Изготовить атомную бионическую руку</Make_SlBi.description>
+  <Make_SlBi.jobString>изготавливает</Make_SlBi.jobString>
+  
+  <Make_SlTui.label>изготовить атомную бионическую ногу</Make_SlTui.label>
+  <Make_SlTui.description>Изготовить атомную бионическую ногу</Make_SlTui.description>
+  <Make_SlTui.jobString>изготавливает</Make_SlTui.jobString>
+  
+  <!-- Food -->
+  <MakeF_MljtT.label>изготовить конфеты x30</MakeF_MljtT.label>
+  <MakeF_MljtT.description>Готовка</MakeF_MljtT.description>
+  <MakeF_MljtT.jobString>готовит</MakeF_MljtT.jobString>
+  
+  <MakeF_AXBD.label>приготовить изысканный бэнто</MakeF_AXBD.label>
+  <MakeF_AXBD.description>Готовка</MakeF_AXBD.description>
+  <MakeF_AXBD.jobString>готовит</MakeF_AXBD.jobString>
+  
+  <MakeF_AXBDT.label>приготовить изысканный бэнто x5</MakeF_AXBDT.label>
+  <MakeF_AXBDT.description>Готовка</MakeF_AXBDT.description>
+  <MakeF_AXBDT.jobString>готовит</MakeF_AXBDT.jobString>
+  
+  <MakeF_AXBDSHI.label>приготовить изысканный бэнто x10</MakeF_AXBDSHI.label>
+  <MakeF_AXBDSHI.description>Готовка</MakeF_AXBDSHI.description>
+  <MakeF_AXBDSHI.jobString>готовит</MakeF_AXBDSHI.jobString>
+  
+  <MakeF_JZGT.label>приготовить изысканные консервы</MakeF_JZGT.label>
+  <MakeF_JZGT.description>Готовка</MakeF_JZGT.description>
+  <MakeF_JZGT.jobString>готовит</MakeF_JZGT.jobString>
+  
+  <MakeF_JZGTT.label>приготовить изысканные консервы x5</MakeF_JZGTT.label>
+  <MakeF_JZGTT.description>Готовка</MakeF_JZGTT.description>
+  <MakeF_JZGTT.jobString>готовит</MakeF_JZGTT.jobString>
+  
+  <MakeF_JZGTSHI.label>приготовить изысканные консервы x10</MakeF_JZGTSHI.label>
+  <MakeF_JZGTSHI.description>Готовка</MakeF_JZGTSHI.description>
+  <MakeF_JZGTSHI.jobString>готовит</MakeF_JZGTSHI.jobString>
+  
+  <MakeF_JBQS.label>приготовить содовую</MakeF_JBQS.label>
+  <MakeF_JBQS.description>Готовка</MakeF_JBQS.description>
+  <MakeF_JBQS.jobString>готовит</MakeF_JBQS.jobString>
+  
+  <MakeF_JBQST.label>приготовить содовую x5</MakeF_JBQST.label>
+  <MakeF_JBQST.description>Готовка</MakeF_JBQST.description>
+  <MakeF_JBQST.jobString>готовит</MakeF_JBQST.jobString>
+  
+  <MakeF_SP_AtFood.label>приготовить чипсы TY</MakeF_SP_AtFood.label>
+  <MakeF_SP_AtFood.description>Готовка</MakeF_SP_AtFood.description>
+  <MakeF_SP_AtFood.jobString>готовит</MakeF_SP_AtFood.jobString>
+  
+  <MakeF_DGSPT.label>приготовить чипсы x5</MakeF_DGSPT.label>
+  <MakeF_DGSPT.description>Готовка</MakeF_DGSPT.description>
+  <MakeF_DGSPT.jobString>готовит</MakeF_DGSPT.jobString>
+  
+  <MakeF_Qqlb.label>приготовить энергетический батончик</MakeF_Qqlb.label>
+  <MakeF_Qqlb.description>Готовка</MakeF_Qqlb.description>
+  <MakeF_Qqlb.jobString>готовит</MakeF_Qqlb.jobString>
+  
+  <MakeF_QqlbT.label>приготовить энергетический батончик x5</MakeF_QqlbT.label>
+  <MakeF_QqlbT.description>Готовка</MakeF_QqlbT.description>
+  <MakeF_QqlbT.jobString>готовит</MakeF_QqlbT.jobString>
+  
+  <MakeF_Jbdl.label>приготовить энергетик x3</MakeF_Jbdl.label>
+  <MakeF_Jbdl.description>Готовка</MakeF_Jbdl.description>
+  <MakeF_Jbdl.jobString>готовит</MakeF_Jbdl.jobString>
+  
+  <MakeF_JbdlT.label>приготовить энергетик x10</MakeF_JbdlT.label>
+  <MakeF_JbdlT.description>Готовка</MakeF_JbdlT.description>
+  <MakeF_JbdlT.jobString>готовит</MakeF_JbdlT.jobString>
+  
+  <MakeF_Jdxl.label>приготовить мороженое</MakeF_Jdxl.label>
+  <MakeF_Jdxl.description>Готовка</MakeF_Jdxl.description>
+  <MakeF_Jdxl.jobString>готовит</MakeF_Jdxl.jobString>
+  
+  <MakeF_JdxlT.label>приготовить мороженое x5</MakeF_JdxlT.label>
+  <MakeF_JdxlT.description>Готовка</MakeF_JdxlT.description>
+  <MakeF_JdxlT.jobString>готовит</MakeF_JdxlT.jobString>
+  
+  <MakeF_Kkms.label>приготовить какао-мусс</MakeF_Kkms.label>
+  <MakeF_Kkms.description>Готовка</MakeF_Kkms.description>
+  <MakeF_Kkms.jobString>готовит</MakeF_Kkms.jobString>
+  
+  <MakeF_KkmsT.label>приготовить какао-мусс x5</MakeF_KkmsT.label>
+  <MakeF_KkmsT.description>Готовка</MakeF_KkmsT.description>
+  <MakeF_KkmsT.jobString>готовит</MakeF_KkmsT.jobString>
+  
+  <MakeF_Yysj.label>приготовить жареную курицу</MakeF_Yysj.label>
+  <MakeF_Yysj.description>Готовка</MakeF_Yysj.description>
+  <MakeF_Yysj.jobString>готовит</MakeF_Yysj.jobString>
+  
+  <MakeF_YysjT.label>приготовить жареную курицу x5</MakeF_YysjT.label>
+  <MakeF_YysjT.description>Готовка</MakeF_YysjT.description>
+  <MakeF_YysjT.jobString>готовит</MakeF_YysjT.jobString>
+  
+  <MakeF_Mgjb.label>приготовить буррито</MakeF_Mgjb.label>
+  <MakeF_Mgjb.description>Готовка</MakeF_Mgjb.description>
+  <MakeF_Mgjb.jobString>готовит</MakeF_Mgjb.jobString>
+  
+  <MakeF_MgjbT.label>приготовить буррито x5</MakeF_MgjbT.label>
+  <MakeF_MgjbT.description>Готовка</MakeF_MgjbT.description>
+  <MakeF_MgjbT.jobString>готовит</MakeF_MgjbT.jobString>
+  
+  <MakeF_Lbmz.label>приготовить бургер</MakeF_Lbmz.label>
+  <MakeF_Lbmz.description>Готовка</MakeF_Lbmz.description>
+  <MakeF_Lbmz.jobString>готовит</MakeF_Lbmz.jobString>
+  
+  <MakeF_LbmzT.label>приготовить бургер x5</MakeF_LbmzT.label>
+  <MakeF_LbmzT.description>Готовка</MakeF_LbmzT.description>
+  <MakeF_LbmzT.jobString>готовит</MakeF_LbmzT.jobString>
+  
+  <!-- Materials -->
+  <Make_EtherM.label>изготовить кристаллическую ленту</Make_EtherM.label>
+  <Make_EtherM.description>Изготовить кристаллическую ленту</Make_EtherM.description>
+  <Make_EtherM.jobString>изготавливает кристаллическую ленту</Make_EtherM.jobString>
+  
+  <Make_titanium_alloy.label>синтезировать титановый сплав x100</Make_titanium_alloy.label>
+  <Make_titanium_alloy.description>Синтезировать титановый сплав менее эффективным способом</Make_titanium_alloy.description>
+  <Make_titanium_alloy.jobString>синтезирует титановый сплав</Make_titanium_alloy.jobString>
+  
+  <Make_TIalloy.label>выплавить TI2 сплав x35</Make_TIalloy.label>
+  <Make_TIalloy.description>Выплавить улучшенную версию титанового сплава — TI2</Make_TIalloy.description>
+  <Make_TIalloy.jobString>выплавляет TI2 сплав</Make_TIalloy.jobString>
+  
+  <Make_TIalloyS.label>синтезировать бронированный сплав x10</Make_TIalloyS.label>
+  <Make_TIalloyS.description>Синтезировать улучшенную версию титанового сплава — бронированный сплав</Make_TIalloyS.description>
+  <Make_TIalloyS.jobString>синтезирует бронированный сплав x10</Make_TIalloyS.jobString>
+  
+  <Make_ZXA.label>синтезировать нейтральный амин</Make_ZXA.label>
+  <Make_ZXA.description>Синтезировать нейтральный амин</Make_ZXA.description>
+  <Make_ZXA.jobString>синтезирует</Make_ZXA.jobString>
+  
+</LanguageData>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <TY_Trait_YCBX.degreeDatas.color66FF99bbcolor.label><![CDATA[<color=#66FF99><b>человек слова</b></color>]]></TY_Trait_YCBX.degreeDatas.color66FF99bbcolor.label>
+  <TY_Trait_YCBX.degreeDatas.color66FF99bbcolor.description>{PAWN_nameDef} — добрый человек, очень ценящий честность. Если [PAWN_pronoun] что-то пообещал, обязательно сделает. {PAWN_nameDef} очень популярен, но из-за неумения отказывать часто страдает.</TY_Trait_YCBX.degreeDatas.color66FF99bbcolor.description>
+  
+  <TY_Trait_KJW.degreeDatas.color66FF99bbcolor.label><![CDATA[<color=#66FF99><b>мастер торговли</b></color>]]></TY_Trait_KJW.degreeDatas.color66FF99bbcolor.label>
+  <TY_Trait_KJW.degreeDatas.color66FF99bbcolor.description>На шахматной доске торговли {PAWN_nameDef} известен как «мастер торговли» за свои выдающиеся навыки переговоров. [PAWN_pronoun] чувствует пульс рынка и всегда находит лучший момент на переговорах благодаря своей проницательности и навыкам общения.</TY_Trait_KJW.degreeDatas.color66FF99bbcolor.description>
+  
+  <TY_Trait_ZL.degreeDatas.color66FF99bbcolor.label><![CDATA[<color=#66FF99><b>самодисциплина</b></color>]]></TY_Trait_ZL.degreeDatas.color66FF99bbcolor.label>
+  <TY_Trait_ZL.degreeDatas.color66FF99bbcolor.description>{PAWN_nameDef} очень самодисциплинирован, что делает [PAWN_pronoun] отличным в управлении временем и постановке целей. [PAWN_pronoun] эффективно планирует расписание и упорно выполняет задачи.</TY_Trait_ZL.degreeDatas.color66FF99bbcolor.description>
+  
+  <TY_Trait_YG.degreeDatas.color66FF99bbcolor.label><![CDATA[<color=#66FF99><b>храбрость</b></color>]]></TY_Trait_YG.degreeDatas.color66FF99bbcolor.label>
+  <TY_Trait_YG.degreeDatas.color66FF99bbcolor.description>Храбрость — девиз {PAWN_nameDef}. [PAWN_pronoun] всегда готов противостоять несправедливости и злу. Храбрые поступки [PAWN_pronoun] вдохновляют окружающих, став воплощением справедливости.</TY_Trait_YG.degreeDatas.color66FF99bbcolor.description>
+  
+  <TY_Trait_XZYM.degreeDatas.color00FFE6bbcolor.label><![CDATA[<color=#00FFE6><b>неземная красота</b></color>]]></TY_Trait_XZYM.degreeDatas.color00FFE6bbcolor.label>
+  <TY_Trait_XZYM.degreeDatas.color00FFE6bbcolor.description>Невероятно... {PAWN_nameDef} — самый красивый человек во вселенной. Даже монах, медитировавший годами, влюбится с первого взгляда.</TY_Trait_XZYM.degreeDatas.color00FFE6bbcolor.description>
+  
+  <TY_Trait_JXHZ.degreeDatas.color444444bbcolor.label><![CDATA[<color=#444444><b>предельный пациент</b></color>]]></TY_Trait_JXHZ.degreeDatas.color444444bbcolor.label>
+  <TY_Trait_JXHZ.degreeDatas.color444444bbcolor.description>В мире внезапно появился неизвестный вирус, вызывающий странные мутации тела и неизлечимые болезни. Хуже того, он пробуждает тёмную сторону человека, толкая к преступлениям. Учёные называют заражённых «предельными пациентами».\n\nКогда Абаддон спустился, он принёс дождь, подобный метеоритам... Этот дождь будто искал хозяина, омывая и крестя отчаявшихся. {PAWN_nameDef} стал предельным пациентом в этом крещении.\n— «Splitting»</TY_Trait_JXHZ.degreeDatas.color444444bbcolor.description>
+  
+  <TY_Trait_ZK.degreeDatas.colorC63300bbcolor.label><![CDATA[<color=#C63300><b>берсерк</b></color>]]></TY_Trait_ZK.degreeDatas.colorC63300bbcolor.label>
+  <TY_Trait_ZK.degreeDatas.colorC63300bbcolor.description>{PAWN_nameDef} — берсерк, поэтому овладел множеством боевых навыков.</TY_Trait_ZK.degreeDatas.colorC63300bbcolor.description>
+  
+  <T14FCYZ.degreeDatas.color66FF99bbcolor.label><![CDATA[<color=#66FF99><b>Чёрный Джек</b></color>]]></T14FCYZ.degreeDatas.color66FF99bbcolor.label>
+  <T14FCYZ.degreeDatas.color66FF99bbcolor.description>{PAWN_nameDef} — выдающийся хирург, известный своим мастерством. У {PAWN_nameDef} нет официальной лицензии, а методы и высокие гонорары вызывают споры, поэтому [PAWN_pronoun] имеет плохую репутацию в медицинских кругах. Тем не менее [PAWN_pronoun] ценят некоторые пациенты за способность лечить неизлечимые болезни.</T14FCYZ.degreeDatas.color66FF99bbcolor.description>
+  
+</LanguageData>
+

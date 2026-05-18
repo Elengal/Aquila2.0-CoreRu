@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Drug -->
+  <Magic_AtCY.label>боевой препарат бофеан</Magic_AtCY.label>
+  <Magic_AtCY.description>Бофеан применялся солдатами различных звёздных империй во время Сумеречных войн. Относительно дешёвый, он значительно усиливает боевые способности. В новой Сумеречной войне его широко использовали Сияющие для тактик быстрого прорыва.</Magic_AtCY.description>
+  <Magic_AtCY.ingestible.ingestCommandString>выпить {0}</Magic_AtCY.ingestible.ingestCommandString>
+  <Magic_AtCY.ingestible.ingestReportString>несёт {0}.</Magic_AtCY.ingestible.ingestReportString>
+  
+  <!-- Materials -->
+  <titanium_alloy.label>титановый сплав</titanium_alloy.label>
+  <titanium_alloy.description>Титан обладает превосходными свойствами и широко применяется в аэрокосмической отрасли, судостроении, химической промышленности, транспорте, оружии, медицине, спорте и лёгкой промышленности.</titanium_alloy.description>
+  
+  <TIalloy.label>бронированный сплав</TIalloy.label>
+  <TIalloy.description>Прочная и долговечная броневая сталь, полученная сваркой и плавлением металлов с разными свойствами.</TIalloy.description>
+  
+  <EtherM.label>кристаллическая лента</EtherM.label>
+  <EtherM.description>Выглядит как огромная магнитная лента из Среднего мира, но на самом деле это электронный компонент с электронами, сжатыми в гибкую ленту. Прочнее и долговечнее металлических компонентов, может сворачиваться и хранить больше данных.</EtherM.description>
+  
+  <TY_A_Nano_solvent.label>наномеханизмы</TY_A_Nano_solvent.label>
+  <TY_A_Nano_solvent.description>Одна из ключевых систем технологий Орла. Наномеханизмы применяются в военном оружии, гражданском строительстве, высоких технологиях, медицине, развитии пси-способностей, строительных работах и механоидах.</TY_A_Nano_solvent.description>
+  
+  <EHeart.label>бьющееся сердце</EHeart.label>
+  <EHeart.description>Свежее сердце, полученное от нечеловеческого монстра, например, из Сияющего Святилища.</EHeart.description>
+  
+  <EtherCore.label>титан-II атомный реактор</EtherCore.label>
+  <EtherCore.description>Энергетическое ядро форм жизни Люсии и некоторых особых созданий.</EtherCore.description>
+  
+  <BalunsiHeart.label>странное сердце</BalunsiHeart.label>
+  <BalunsiHeart.description>Очень редкий трофей с механоидов. Кажется бесполезным, можно только продать.</BalunsiHeart.description>
+  
+  <!-- Bionics Items -->
+  <ShingLanArm.label>атомная бионическая рука</ShingLanArm.label>
+  <ShingLanArm.description>Бионическая рука</ShingLanArm.description>
+  
+  <ShingLanLeg.label>атомная бионическая нога</ShingLanLeg.label>
+  <ShingLanLeg.description>Бионическая нога</ShingLanLeg.description>
+  
+  <ShingLanEye.label>атомный бионический глаз</ShingLanEye.label>
+  <ShingLanEye.description>Бионический глаз</ShingLanEye.description>
+  
+  <ShingLanEar.label>атомное бионическое ухо</ShingLanEar.label>
+  <ShingLanEar.description>Бионическое ухо</ShingLanEar.description>
+  
+  <ShingLanSpine.label>атомный бионический позвоночник</ShingLanSpine.label>
+  <ShingLanSpine.description>Бионический позвоночник</ShingLanSpine.description>
+  
+  <ShingLanStomach.label>атомный бионический желудок</ShingLanStomach.label>
+  <ShingLanStomach.description>Бионический желудок</ShingLanStomach.description>
+  
+  <ShingLanLung.label>атомное бионическое лёгкое</ShingLanLung.label>
+  <ShingLanLung.description>Бионическое лёгкое</ShingLanLung.description>
+  
+  <ShingLanKidney.label>атомная бионическая почка</ShingLanKidney.label>
+  <ShingLanKidney.description>Бионическая почка</ShingLanKidney.description>
+  
+  <ShingLanLiver.label>атомная бионическая печень</ShingLanLiver.label>
+  <ShingLanLiver.description>Бионическая печень</ShingLanLiver.description>
+  
+  <!-- Food -->
+  <Sugar_AtFood.label>конфеты</Sugar_AtFood.label>
+  <Sugar_AtFood.description>Вкусные конфеты</Sugar_AtFood.description>
+  
+  <AXBD_AtFood.label>изысканный бэнто</AXBD_AtFood.label>
+  <AXBD_AtFood.description>Изысканный бэнто. Трудно представить, что такую еду можно найти на Окраинном мире. (Но готовить хлопотно)</AXBD_AtFood.description>
+  
+  <Yysj_AtFood.label>жареная курица</Yysj_AtFood.label>
+  <Yysj_AtFood.description>Жареная курица — очень популярное китайское блюдо. Курицу маринуют в специальном соусе и запекают при высокой температуре до золотистой корочки.</Yysj_AtFood.description>
+  
+  <Mgjb_AtFood.label>буррито</Mgjb_AtFood.label>
+  <Mgjb_AtFood.description>Буррито, или кукурузная лепёшка — традиционное мексиканское блюдо. Красочное и яркое украшение с мексиканским колоритом.</Mgjb_AtFood.description>
+  
+  <Lbmz_AtFood.label>бургер</Lbmz_AtFood.label>
+  <Lbmz_AtFood.description>Еда из хлеба, овощей и мяса. Говорят, это фастфуд. Но если разложить ингредиенты, это уже не фастфуд. Удивительно.</Lbmz_AtFood.description>
+  
+  <Jbdl_AtFood.label>энергетик</Jbdl_AtFood.label>
+  <Jbdl_AtFood.description>Одна бутылка — бодрость, две — неутомимость, три — бессмертие...</Jbdl_AtFood.description>
+  
+  <JZGT_AtFood.label>изысканные консервы</JZGT_AtFood.label>
+  <JZGT_AtFood.description>Изысканные консервы с добавками для повышения иммунитета и витаминов.</JZGT_AtFood.description>
+  
+  <Qqlb_AtFood.label>энергетический батончик</Qqlb_AtFood.label>
+  <Qqlb_AtFood.description>Энергетический батончик даёт много энергии.</Qqlb_AtFood.description>
+  
+  <JBQS_AtFood.label>содовая</JBQS_AtFood.label>
+  <JBQS_AtFood.description>Точно не Coca-Cola</JBQS_AtFood.description>
+  
+  <SP_AtFood.label>чипсы</SP_AtFood.label>
+  <SP_AtFood.description>В чипсы добавлен стимулятор?</SP_AtFood.description>
+  
+  <Jdxl_AtFood.label>мороженое</Jdxl_AtFood.label>
+  <Jdxl_AtFood.description>Вкусное мороженое</Jdxl_AtFood.description>
+  
+  <Kkms_AtFood.label>какао-мусс</Kkms_AtFood.label>
+  <Kkms_AtFood.description>(Честно говоря, я не знаю, как это называется)</Kkms_AtFood.description>
+  
+  <!-- Mech Items -->
+  <TY_High_performance_broadband_chip.label>высокопроизводительный широкополосный чип</TY_High_performance_broadband_chip.label>
+  <TY_High_performance_broadband_chip.description>Ключевой компонент для создания высокопроизводительных широкополосных узлов.</TY_High_performance_broadband_chip.description>
+  
+  <TY_B_Resurrected_Nanomechanical_Devices.label>наномеханизмы воскрешения</TY_B_Resurrected_Nanomechanical_Devices.label>
+  <TY_B_Resurrected_Nanomechanical_Devices.description>Записывают ДНК живых, создают стволовые клетки через наномеханизмы для восстановления тела и активации. Эта технология стала ключом к выживанию в Сумеречных войнах. Но есть ограничения: труп должен быть сохранён, не сожжён и не уничтожен. Нужно ввести наномеханизмы заранее. (Эффект: как отказ смерти, добавляет способность воскрешения к трупу)</TY_B_Resurrected_Nanomechanical_Devices.description>
+  <TY_B_Resurrected_Nanomechanical_Devices.comps.CompUsableImplant.useLabel>имплантировать саблинк</TY_B_Resurrected_Nanomechanical_Devices.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>
+

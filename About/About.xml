@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Aquila2.0 Core - Русификатор</name>
+  <author>Elengal, Dmitry6</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>Elengal.Aquila20CoreRU</packageId>
+  <description>Русификатор для мода [TY2.0] Aquila 2.0 Core (Долина Орла - Ядро).
+
+Авторы перевода:
+• Elengal
+• Dmitry6
+
+Требуется мод Aquila 2.0 Core.</description>
+  <modDependencies>
+    <li>
+      <packageId>TYll.Core</packageId>
+      <displayName>[TY2.0] Aquila2.0 Core</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Elengal.RimWorldRU</packageId>
+      <displayName>RimWorld RU</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>TYll.Core</li>
+  </loadAfter>
+  <forceLoadBefore>
+    <li>Elengal.Aquila20ValleyRU</li>
+  </forceLoadBefore>
+</ModMetaData>
