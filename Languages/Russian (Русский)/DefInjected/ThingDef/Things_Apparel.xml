@@ -30,7 +30,7 @@
   <AP_N_MiscJ.description>Из игры «Cross core».</AP_N_MiscJ.description>
   
   <AS_N_JSyan.label>кошачий комбинезон</AS_N_JSyan.label>
-  <AS_N_JSyan.description>Подписывайтесь на UP 简单一颗星 на Bilibili для кошачьих видео.</AS_N_JSyan.description>
+  <AS_N_JSyan.description>Подписывайтесь на автора «Simple One Star» на Bilibili для кошачьих видео.</AS_N_JSyan.description>
   
   <AP_N_KBND.label>костюм сексуального вампира</AP_N_KBND.label>
   <AP_N_KBND.description>Костюм сексуального вампира.</AP_N_KBND.description>
@@ -52,14 +52,14 @@
   <AH_N_MiscJ.description>Из игры «Cross core».</AH_N_MiscJ.description>
   
   <AS_N_JSyana.label>шлем кошачьего комбинезона</AS_N_JSyana.label>
-  <AS_N_JSyana.description>Подписывайтесь на UP 简单一颗星 на Bilibili для кошачьих видео.</AS_N_JSyana.description>
+  <AS_N_JSyana.description>Подписывайтесь на автора «Simple One Star» на Bilibili для кошачьих видео.</AS_N_JSyana.description>
   
   <!-- Armor -->
-  <AR_N_LanYing.label>синий щит</AR_N_LanYing.label>
+  <AR_N_LanYing.label>«Синяя тень»: нагрудник</AR_N_LanYing.label>
   <AR_N_LanYing.description>Броня, разработанная Федерацией Долины на основе плазменных технологий. Названа из-за синего света ядра. Поскольку броню не видно снаружи, её часто используют в разведывательных операциях.</AR_N_LanYing.description>
   
-  <AH_N_LanYing.label>синий шлем</AH_N_LanYing.label>
-  <AH_N_LanYing.description>Комплект к синему щиту. Используется для связи с командой и защиты головы во время разведки.</AH_N_LanYing.description>
+  <AH_N_LanYing.label>«Синяя тень»: шлем</AH_N_LanYing.label>
+  <AH_N_LanYing.description>Комплект к нагруднику «Синяя тень». Используется для связи с командой и защиты головы во время разведки.</AH_N_LanYing.description>
   
   <AS_N_PowerExo.label>силовой экзоскелет</AS_N_PowerExo.label>
   <AS_N_PowerExo.description>Универсальный силовой экзоскелет из Сияющих миров. Двойного назначения — военный и гражданский. Оснащён специальным энергоядром, механическими руками-паукам и сервомоторами для ускорения работы.</AS_N_PowerExo.description>
