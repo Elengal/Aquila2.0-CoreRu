@@ -4,6 +4,8 @@
 
 **Полный русский перевод мода [Aquila 2.0 Core](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) для RimWorld**
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/Elengal/Aquila2.0-CoreRu)
+
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.6-blueviolet?style=flat-square)](https://rimworldgame.com/)
 [![Язык](https://img.shields.io/badge/Перевод-Русский-red?style=flat-square)]()
 [![Версия](https://img.shields.io/badge/Версия_мода-2.0-orange?style=flat-square)]()
@@ -22,7 +24,7 @@
 ## ⚙️ Установка
 
 ### Вариант 1: Через Steam Workshop
-Подписка на русификатор в Steam Workshop автоматически загрузит и обновит перевод.
+Подписка на русификатор в [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3607397722) автоматически загрузит и обновит перевод.
 
 ### Вариант 2: Вручную
 1. Скачайте [последний релиз](../../releases) или нажмите **Code → Download ZIP**
@@ -34,8 +36,8 @@
 
 | Мод | Ссылка | Примечание |
 |-----|--------|------------|
-| **Aquila 2.0 Core** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) | Обязательный |
-| **Базовый русификатор RimWorld** | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) | Обязательный |
+| **Aquila 2.0 Core** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3280989190) | Обязательный |
+| **Базовый русификатор RimWorld** | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3615283148) / [GitHub](https://github.com/Elengal/RWRM) | Обязательный |
 
 > ⚠️ **Порядок загрузки:** Aquila 2.0 Core → Aquila 2.0 Core Ru
 
